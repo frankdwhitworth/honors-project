@@ -1,0 +1,95 @@
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:187: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}}
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O0', '-l', '8']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Expers: 0
+1.0000007
+0.9860807
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O0', '-l', '16']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Expers: 0
+Traceback (most recent call last):
+  File "./papa.py", line 260, in <module>
+    main(sys.argv[1:])
+  File "./papa.py", line 234, in main
+    if line.split()[1] == 'c4' or line.split()[1] == 'c5':
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./massive_experiment.py", line 324, in <module>
+    main(sys.argv)
+  File "./massive_experiment.py", line 155, in main
+    (out, err) = proc.communicate()
+  File "/usr/lib/python3.7/subprocess.py", line 926, in communicate
+    stdout = self.stdout.read()
+KeyboardInterrupt
+gmm_cluster.py:187: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}}
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O0', '-l', '8']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Expers: 0
+Traceback (most recent call last):
+  File "./papa.py", line 260, in <module>
+    main(sys.argv[1:])
+  File "./papa.py", line 233, in main
+    for line in f:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./massive_experiment.py", line 324, in <module>
+    main(sys.argv)
+  File "./massive_experiment.py", line 155, in main
+    (out, err) = proc.communicate()
+  File "/usr/lib/python3.7/subprocess.py", line 926, in communicate
+    stdout = self.stdout.read()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "gmm_cluster.py", line 233, in <module>
+    x = main(sys.argv[1:])
+  File "gmm_cluster.py", line 197, in main
+    df[col_list] = scaler.fit_transform(df[col_list])
+  File "/usr/local/lib/python3.7/dist-packages/sklearn/base.py", line 852, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "/usr/local/lib/python3.7/dist-packages/sklearn/preprocessing/_data.py", line 416, in fit
+    return self.partial_fit(X, y)
+  File "/usr/local/lib/python3.7/dist-packages/sklearn/preprocessing/_data.py", line 458, in partial_fit
+    force_all_finite="allow-nan",
+  File "/usr/local/lib/python3.7/dist-packages/sklearn/base.py", line 566, in _validate_data
+    X = check_array(X, **check_params)
+  File "/usr/local/lib/python3.7/dist-packages/sklearn/utils/validation.py", line 665, in check_array
+    dtype_orig = np.result_type(*dtypes_orig)
+  File "<__array_function__ internals>", line 6, in result_type
+ValueError: at least one array or dtype is required

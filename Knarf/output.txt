@@ -1,0 +1,10800 @@
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+8 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+16 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+24 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+32 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+40 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+48 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+56 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+64 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+72 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+80 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+96 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+112 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+128 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+144 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+160 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+176 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+192 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+208 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+224 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+240 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+272 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+304 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+336 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+368 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+400 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+432 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+464 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+496 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+528 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+560 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+624 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+688 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+752 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+816 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+880 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+944 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+1008 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+1072 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+1136 / 126720
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+1200 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+1208 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+1216 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+1224 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+1232 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+1240 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+1248 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+1256 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+1264 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+1272 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+1280 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+1296 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+1312 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+1328 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+1344 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+1360 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+1376 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+1392 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+1408 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+1424 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+1440 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+1472 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+1504 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+1536 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+1568 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+1600 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+1632 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+1664 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+1696 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+1728 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+1760 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+1824 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+1888 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+1952 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+2016 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+2080 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+2144 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+2208 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+2272 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+2336 / 126720
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+2400 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+2408 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+2416 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+2424 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+2432 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+2440 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+2448 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+2456 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+2464 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+2472 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+2480 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+2496 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+2512 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+2528 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+2544 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+2560 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+2576 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+2592 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+2608 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+2624 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+2640 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+2672 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+2704 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+2736 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+2768 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+2800 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+2832 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+2864 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+2896 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+2928 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+2960 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+3024 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+3088 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+3152 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+3216 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+3280 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+3344 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+3408 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+3472 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+3536 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+3600 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+3608 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+3616 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+3624 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+3632 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+3640 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+3648 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+3656 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+3664 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+3672 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+3680 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+3696 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+3712 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+3728 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+3744 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+3760 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+3776 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+3792 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+3808 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+3824 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+3840 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+3872 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+3904 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+3936 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+3968 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+4000 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+4032 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+4064 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+4096 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+4128 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+4160 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+4224 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+4288 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+4352 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+4416 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+4480 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+4544 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+4608 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+4672 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+4736 / 126720
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+4800 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+4808 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+4816 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+4824 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+4832 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+4840 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+4848 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+4856 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+4864 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+4872 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+4880 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+4896 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+4912 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+4928 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+4944 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+4960 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+4976 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+4992 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+5008 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+5024 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+5040 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+5072 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+5104 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+5136 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+5168 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+5200 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+5232 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+5264 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+5296 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+5328 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+5360 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+5424 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+5488 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+5552 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+5616 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+5680 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+5744 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+5808 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+5872 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+5936 / 126720
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+6000 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+6008 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+6016 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+6024 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+6032 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+6040 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+6048 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+6056 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+6064 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+6072 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+6080 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+6096 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+6112 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+6128 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+6144 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+6160 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+6176 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+6192 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+6208 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+6224 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+6240 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+6272 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+6304 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+6336 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+6368 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+6400 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+6432 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+6464 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+6496 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+6528 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+6560 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+6624 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+6688 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+6752 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+6816 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+6880 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+6944 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+7008 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+7072 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+7136 / 126720
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+7200 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+7208 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+7216 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+7224 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+7232 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+7240 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+7248 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+7256 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+7264 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+7272 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+7280 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+7296 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+7312 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+7328 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+7344 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+7360 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+7376 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+7392 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+7408 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+7424 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+7440 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+7472 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+7504 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+7536 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+7568 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+7600 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+7632 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+7664 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+7696 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+7728 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+7760 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+7824 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+7888 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+7952 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+8016 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+8080 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+8144 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+8208 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+8272 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+8336 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+8400 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+8408 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+8416 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+8424 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+8432 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+8440 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+8448 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+8456 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+8464 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+8472 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+8480 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+8496 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+8512 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+8528 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+8544 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+8560 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+8576 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+8592 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+8608 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+8624 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+8640 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+8672 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+8704 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+8736 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+8768 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+8800 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+8832 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+8864 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+8896 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+8928 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+8960 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+9024 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+9088 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+9152 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+9216 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+9280 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+9344 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+9408 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+9472 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+9536 / 126720
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+9600 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+9608 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+9616 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+9624 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+9632 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+9640 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+9648 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+9656 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+9664 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+9672 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+9680 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+9696 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+9712 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+9728 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+9744 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+9760 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+9776 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+9792 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+9808 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+9824 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+9840 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+9872 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+9904 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+9936 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+9968 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+10000 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+10032 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+10064 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+10096 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+10128 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+10160 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+10224 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+10288 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+10352 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+10416 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+10480 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+10544 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+10608 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+10672 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+10736 / 126720
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+10800 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+10808 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+10816 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+10824 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+10832 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+10840 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+10848 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+10856 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+10864 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+10872 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+10880 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+10896 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+10912 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+10928 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+10944 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+10960 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+10976 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+10992 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+11008 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+11024 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+11040 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+11072 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+11104 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+11136 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+11168 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+11200 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+11232 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+11264 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+11296 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+11328 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+11360 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+11424 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+11488 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+11552 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+11616 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+11680 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+11744 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+11808 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+11872 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+11936 / 126720
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+12000 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+12008 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+12016 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+12024 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+12032 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+12040 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+12048 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+12056 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+12064 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+12072 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+12080 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+12096 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+12112 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+12128 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+12144 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+12160 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+12176 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+12192 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+12208 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+12224 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+12240 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+12272 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+12304 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+12336 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+12368 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+12400 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+12432 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+12464 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+12496 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+12528 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+12560 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+12624 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+12688 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+12752 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+12816 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+12880 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+12944 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+13008 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+13072 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+13136 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+13200 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+13208 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+13216 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+13224 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+13232 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+13240 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+13248 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+13256 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+13264 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+13272 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+13280 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+13296 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+13312 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+13328 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+13344 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+13360 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+13376 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+13392 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+13408 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+13424 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+13440 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+13472 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+13504 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+13536 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+13568 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+13600 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+13632 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+13664 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+13696 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+13728 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+13760 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+13824 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+13888 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+13952 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+14016 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+14080 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+14144 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+14208 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+14272 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+14336 / 126720
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+14400 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+14408 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+14416 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+14424 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+14432 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+14440 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+14448 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+14456 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+14464 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+14472 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+14480 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+14496 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+14512 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+14528 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+14544 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+14560 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+14576 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+14592 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+14608 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+14624 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+14640 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+14672 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+14704 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+14736 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+14768 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+14800 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+14832 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+14864 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+14896 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+14928 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+14960 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+15024 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+15088 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+15152 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+15216 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+15280 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+15344 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+15408 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+15472 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+15536 / 126720
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+15600 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+15608 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+15616 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+15624 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+15632 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+15640 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+15648 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+15656 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+15664 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+15672 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+15680 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+15696 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+15712 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+15728 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+15744 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+15760 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+15776 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+15792 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+15808 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+15824 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+15840 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+15872 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+15904 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+15936 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+15968 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+16000 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+16032 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+16064 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+16096 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+16128 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+16160 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+16224 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+16288 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+16352 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+16416 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+16480 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+16544 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+16608 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+16672 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+16736 / 126720
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+16800 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+16808 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+16816 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+16824 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+16832 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+16840 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+16848 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+16856 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+16864 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+16872 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+16880 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+16896 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+16912 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+16928 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+16944 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+16960 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+16976 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+16992 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+17008 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+17024 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+17040 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+17072 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+17104 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+17136 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+17168 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+17200 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+17232 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+17264 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+17296 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+17328 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+17360 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+17424 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+17488 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+17552 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+17616 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+17680 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+17744 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+17808 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+17872 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+17936 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+18000 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+18008 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+18016 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+18024 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+18032 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+18040 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+18048 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+18056 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+18064 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+18072 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+18080 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+18096 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+18112 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+18128 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+18144 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+18160 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+18176 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+18192 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+18208 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+18224 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+18240 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+18272 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+18304 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+18336 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+18368 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+18400 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+18432 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+18464 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+18496 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+18528 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+18560 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+18624 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+18688 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+18752 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+18816 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+18880 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+18944 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+19008 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+19072 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+19136 / 126720
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+19200 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+19208 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+19216 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+19224 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+19232 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+19240 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+19248 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+19256 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+19264 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+19272 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+19280 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+19296 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+19312 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+19328 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+19344 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+19360 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+19376 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+19392 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+19408 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+19424 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+19440 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+19472 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+19504 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+19536 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+19568 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+19600 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+19632 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+19664 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+19696 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+19728 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+19760 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+19824 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+19888 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+19952 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+20016 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+20080 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+20144 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+20208 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+20272 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+20336 / 126720
+. . .
+Four Choice: 4
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+20400 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+20408 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+20416 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+20424 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+20432 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+20440 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+20448 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+20456 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+20464 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+20472 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+20480 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+20496 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+20512 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+20528 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+20544 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+20560 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+20576 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+20592 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+20608 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+20624 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+20640 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+20672 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+20704 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+20736 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+20768 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+20800 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+20832 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+20864 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+20896 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+20928 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+20960 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+21024 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+21088 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+21152 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+21216 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+21280 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+21344 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+21408 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+21472 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+21536 / 126720
+. . .
+Four Choice: 4
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+21600 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+21608 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+21616 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+21624 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+21632 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+21640 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+21648 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+21656 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+21664 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+21672 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+21680 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+21696 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+21712 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+21728 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+21744 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+21760 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+21776 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+21792 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+21808 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+21824 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+21840 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+21872 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+21904 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+21936 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+21968 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+22000 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+22032 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+22064 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+22096 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+22128 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+22160 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+22224 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+22288 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+22352 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+22416 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+22480 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+22544 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+22608 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+22672 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+22736 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+22800 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+22808 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+22816 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+22824 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+22832 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+22840 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+22848 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+22856 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+22864 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+22872 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+22880 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+22896 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+22912 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+22928 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+22944 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+22960 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+22976 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+22992 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+23008 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+23024 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+23040 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+23072 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+23104 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+23136 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+23168 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+23200 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+23232 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+23264 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+23296 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+23328 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+23360 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+23424 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+23488 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+23552 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+23616 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+23680 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+23744 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+23808 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+23872 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+23936 / 126720
+. . .
+Four Choice: 4
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+24000 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+24008 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+24016 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+24024 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+24032 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+24040 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+24048 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+24056 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+24064 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+24072 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+24080 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+24096 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+24112 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+24128 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+24144 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+24160 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+24176 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+24192 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+24208 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+24224 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+24240 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+24272 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+24304 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+24336 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+24368 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+24400 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+24432 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+24464 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+24496 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+24528 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+24560 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+24624 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+24688 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+24752 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+24816 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+24880 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+24944 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+25008 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+25072 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+25136 / 126720
+. . .
+Four Choice: 5
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+25200 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+25208 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+25216 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+25224 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+25232 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+25240 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+25248 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+25256 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+25264 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+25272 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+25280 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+25296 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+25312 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+25328 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+25344 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+25360 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+25376 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+25392 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+25408 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+25424 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+25440 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+25472 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+25504 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+25536 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+25568 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+25600 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+25632 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+25664 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+25696 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+25728 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+25760 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+25824 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+25888 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+25952 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+26016 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+26080 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+26144 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+26208 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+26272 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+26336 / 126720
+. . .
+Four Choice: 5
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+26400 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+26408 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+26416 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+26424 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+26432 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+26440 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+26448 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+26456 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+26464 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+26472 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+26480 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+26496 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+26512 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+26528 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+26544 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+26560 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+26576 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+26592 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+26608 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+26624 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+26640 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+26672 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+26704 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+26736 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+26768 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+26800 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+26832 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+26864 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+26896 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+26928 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+26960 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+27024 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+27088 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+27152 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+27216 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+27280 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+27344 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+27408 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+27472 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+27536 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+27600 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+27608 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+27616 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+27624 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+27632 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+27640 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+27648 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+27656 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+27664 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+27672 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+27680 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+27696 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+27712 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+27728 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+27744 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+27760 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+27776 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+27792 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+27808 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+27824 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+27840 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+27872 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+27904 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+27936 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+27968 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+28000 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+28032 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+28064 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+28096 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+28128 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+28160 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+28224 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+28288 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+28352 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+28416 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+28480 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+28544 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+28608 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+28672 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+28736 / 126720
+. . .
+Four Choice: 5
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+28800 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+28808 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+28816 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+28824 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+28832 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+28840 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+28848 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+28856 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+28864 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+28872 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+28880 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+28896 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+28912 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+28928 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+28944 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+28960 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+28976 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+28992 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+29008 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+29024 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+29040 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+29072 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+29104 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+29136 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+29168 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+29200 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+29232 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+29264 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+29296 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+29328 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+29360 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+29424 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+29488 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+29552 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+29616 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+29680 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+29744 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+29808 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+29872 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+29936 / 126720
+. . .
+Four Choice: 6
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+30000 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+30008 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+30016 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+30024 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+30032 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+30040 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+30048 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+30056 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+30064 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+30072 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+30080 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+30096 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+30112 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+30128 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+30144 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+30160 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+30176 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+30192 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+30208 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+30224 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+30240 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+30272 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+30304 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+30336 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+30368 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+30400 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+30432 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+30464 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+30496 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+30528 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+30560 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+30624 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+30688 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+30752 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+30816 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+30880 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+30944 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+31008 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+31072 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+31136 / 126720
+. . .
+Four Choice: 6
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+31200 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+31208 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+31216 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+31224 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+31232 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+31240 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+31248 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+31256 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+31264 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+31272 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+31280 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+31296 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+31312 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+31328 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+31344 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+31360 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+31376 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+31392 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+31408 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+31424 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+31440 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+31472 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+31504 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+31536 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+31568 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+31600 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+31632 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+31664 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+31696 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+31728 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+31760 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+31824 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+31888 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+31952 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+32016 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+32080 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+32144 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+32208 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+32272 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+32336 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+32400 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+32408 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+32416 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+32424 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+32432 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+32440 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+32448 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+32456 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+32464 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+32472 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+32480 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+32496 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+32512 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+32528 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+32544 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+32560 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+32576 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+32592 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+32608 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+32624 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+32640 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+32672 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+32704 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+32736 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+32768 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+32800 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+32832 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+32864 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+32896 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+32928 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+32960 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+33024 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+33088 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+33152 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+33216 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+33280 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+33344 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+33408 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+33472 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+33536 / 126720
+. . .
+Four Choice: 6
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+33600 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+33608 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+33616 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+33624 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+33632 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+33640 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+33648 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+33656 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+33664 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+33672 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+33680 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+33696 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+33712 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+33728 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+33744 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+33760 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+33776 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+33792 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+33808 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+33824 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+33840 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+33872 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+33904 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+33936 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+33968 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+34000 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+34032 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+34064 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+34096 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+34128 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+34160 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+34224 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+34288 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+34352 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+34416 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+34480 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+34544 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+34608 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+34672 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+34736 / 126720
+. . .
+Four Choice: 7
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+34800 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+34808 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+34816 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+34824 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+34832 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+34840 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+34848 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+34856 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+34864 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+34872 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+34880 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+34896 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+34912 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+34928 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+34944 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+34960 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+34976 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+34992 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+35008 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+35024 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+35040 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+35072 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+35104 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+35136 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+35168 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+35200 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+35232 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+35264 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+35296 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+35328 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+35360 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+35424 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+35488 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+35552 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+35616 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+35680 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+35744 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+35808 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+35872 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+35936 / 126720
+. . .
+Four Choice: 7
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+36000 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+36008 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+36016 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+36024 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+36032 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+36040 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+36048 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+36056 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+36064 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+36072 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+36080 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+36096 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+36112 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+36128 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+36144 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+36160 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+36176 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+36192 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+36208 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+36224 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+36240 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+36272 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+36304 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+36336 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+36368 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+36400 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+36432 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+36464 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+36496 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+36528 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+36560 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+36624 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+36688 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+36752 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+36816 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+36880 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+36944 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+37008 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+37072 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+37136 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+37200 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+37208 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+37216 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+37224 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+37232 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+37240 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+37248 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+37256 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+37264 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+37272 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+37280 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+37296 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+37312 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+37328 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+37344 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+37360 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+37376 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+37392 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+37408 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+37424 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+37440 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+37472 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+37504 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+37536 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+37568 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+37600 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+37632 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+37664 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+37696 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+37728 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+37760 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+37824 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+37888 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+37952 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+38016 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+38080 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+38144 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+38208 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+38272 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+38336 / 126720
+. . .
+Four Choice: 7
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+38400 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+38408 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+38416 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+38424 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+38432 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+38440 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+38448 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+38456 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+38464 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+38472 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+38480 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+38496 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+38512 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+38528 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+38544 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+38560 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+38576 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+38592 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+38608 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+38624 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+38640 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+38672 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+38704 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+38736 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+38768 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+38800 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+38832 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+38864 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+38896 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+38928 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+38960 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+39024 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+39088 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+39152 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+39216 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+39280 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+39344 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+39408 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+39472 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+39536 / 126720
+. . .
+Four Choice: 8
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+39600 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+39608 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+39616 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+39624 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+39632 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+39640 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+39648 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+39656 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+39664 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+39672 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+39680 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+39696 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+39712 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+39728 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+39744 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+39760 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+39776 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+39792 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+39808 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+39824 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+39840 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+39872 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+39904 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+39936 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+39968 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+40000 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+40032 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+40064 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+40096 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+40128 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+40160 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+40224 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+40288 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+40352 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+40416 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+40480 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+40544 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+40608 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+40672 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+40736 / 126720
+. . .
+Four Choice: 8
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+40800 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+40808 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+40816 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+40824 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+40832 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+40840 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+40848 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+40856 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+40864 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+40872 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+40880 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+40896 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+40912 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+40928 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+40944 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+40960 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+40976 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+40992 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+41008 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+41024 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+41040 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+41072 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+41104 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+41136 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+41168 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+41200 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+41232 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+41264 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+41296 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+41328 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+41360 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+41424 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+41488 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+41552 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+41616 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+41680 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+41744 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+41808 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+41872 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+41936 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+42000 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+42008 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+42016 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+42024 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+42032 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+42040 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+42048 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+42056 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+42064 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+42072 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+42080 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+42096 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+42112 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+42128 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+42144 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+42160 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+42176 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+42192 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+42208 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+42224 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+42240 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+42272 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+42304 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+42336 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+42368 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+42400 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+42432 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+42464 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+42496 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+42528 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+42560 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+42624 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+42688 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+42752 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+42816 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+42880 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+42944 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+43008 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+43072 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+43136 / 126720
+. . .
+Four Choice: 8
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+43200 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+43208 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+43216 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+43224 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+43232 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+43240 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+43248 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+43256 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+43264 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+43272 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+43280 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+43296 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+43312 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+43328 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+43344 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+43360 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+43376 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+43392 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+43408 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+43424 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+43440 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+43472 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+43504 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+43536 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+43568 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+43600 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+43632 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+43664 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+43696 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+43728 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+43760 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+43824 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+43888 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+43952 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+44016 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+44080 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+44144 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+44208 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+44272 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+44336 / 126720
+. . .
+Four Choice: 9
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+44400 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+44408 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+44416 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+44424 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+44432 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+44440 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+44448 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+44456 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+44464 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+44472 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+44480 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+44496 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+44512 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+44528 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+44544 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+44560 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+44576 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+44592 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+44608 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+44624 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+44640 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+44672 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+44704 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+44736 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+44768 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+44800 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+44832 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+44864 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+44896 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+44928 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+44960 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+45024 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+45088 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+45152 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+45216 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+45280 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+45344 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+45408 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+45472 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+45536 / 126720
+. . .
+Four Choice: 9
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+45600 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+45608 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+45616 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+45624 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+45632 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+45640 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+45648 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+45656 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+45664 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+45672 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+45680 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+45696 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+45712 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+45728 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+45744 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+45760 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+45776 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+45792 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+45808 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+45824 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+45840 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+45872 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+45904 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+45936 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+45968 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+46000 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+46032 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+46064 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+46096 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+46128 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+46160 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+46224 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+46288 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+46352 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+46416 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+46480 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+46544 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+46608 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+46672 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+46736 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+46800 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+46808 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+46816 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+46824 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+46832 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+46840 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+46848 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+46856 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+46864 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+46872 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+46880 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+46896 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+46912 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+46928 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+46944 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+46960 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+46976 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+46992 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+47008 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+47024 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+47040 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+47072 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+47104 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+47136 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+47168 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+47200 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+47232 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+47264 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+47296 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+47328 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+47360 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+47424 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+47488 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+47552 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+47616 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+47680 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+47744 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+47808 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+47872 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+47936 / 126720
+. . .
+Four Choice: 9
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+48000 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 0
+48008 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 1
+48016 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 2
+48024 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 3
+48032 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 4
+48040 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 5
+48048 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 6
+48056 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 7
+48064 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 8
+48072 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 8
+Local Exper #: 9
+48080 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 0
+48096 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 1
+48112 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 2
+48128 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 3
+48144 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 4
+48160 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 5
+48176 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 6
+48192 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 7
+48208 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 8
+48224 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 16
+Local Exper #: 9
+48240 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 0
+48272 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 1
+48304 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 2
+48336 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 3
+48368 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 4
+48400 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 5
+48432 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 6
+48464 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 7
+48496 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 8
+48528 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 32
+Local Exper #: 9
+48560 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 0
+48624 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 1
+48688 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 2
+48752 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 3
+48816 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 4
+48880 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 5
+48944 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 6
+49008 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 7
+49072 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 8
+49136 / 126720
+. . .
+Four Choice: 10
+Experiment: lib0
+Inputs: 64
+Local Exper #: 9
+49200 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 0
+49208 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 1
+49216 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 2
+49224 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 3
+49232 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 4
+49240 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 5
+49248 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 6
+49256 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 7
+49264 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 8
+49272 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 8
+Local Exper #: 9
+49280 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 0
+49296 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 1
+49312 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 2
+49328 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 3
+49344 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 4
+49360 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 5
+49376 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 6
+49392 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 7
+49408 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 8
+49424 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 16
+Local Exper #: 9
+49440 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 0
+49472 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 1
+49504 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 2
+49536 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 3
+49568 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 4
+49600 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 5
+49632 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 6
+49664 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 7
+49696 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 8
+49728 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 32
+Local Exper #: 9
+49760 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 0
+49824 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 1
+49888 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 2
+49952 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 3
+50016 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 4
+50080 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 5
+50144 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 6
+50208 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 7
+50272 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 8
+50336 / 126720
+. . .
+Four Choice: 10
+Experiment: lib3
+Inputs: 64
+Local Exper #: 9
+50400 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 0
+50408 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 1
+50416 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 2
+50424 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 3
+50432 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 4
+50440 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 5
+50448 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 6
+50456 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 7
+50464 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 8
+50472 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 8
+Local Exper #: 9
+50480 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 0
+50496 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 1
+50512 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 2
+50528 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 3
+50544 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 4
+50560 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 5
+50576 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 6
+50592 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 7
+50608 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 8
+50624 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 16
+Local Exper #: 9
+50640 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 0
+50672 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 1
+50704 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 2
+50736 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 3
+50768 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 4
+50800 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 5
+50832 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 6
+50864 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 7
+50896 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 8
+50928 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 32
+Local Exper #: 9
+50960 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 0
+51024 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 1
+51088 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 2
+51152 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 3
+51216 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 4
+51280 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 5
+51344 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 6
+51408 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 7
+51472 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 8
+51536 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib0
+Inputs: 64
+Local Exper #: 9
+51600 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 0
+51608 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 1
+51616 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 2
+51624 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 3
+51632 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 4
+51640 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 5
+51648 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 6
+51656 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 7
+51664 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 8
+51672 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 8
+Local Exper #: 9
+51680 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 0
+51696 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 1
+51712 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 2
+51728 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 3
+51744 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 4
+51760 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 5
+51776 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 6
+51792 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 7
+51808 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 8
+51824 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 16
+Local Exper #: 9
+51840 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 0
+51872 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 1
+51904 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 2
+51936 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 3
+51968 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 4
+52000 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 5
+52032 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 6
+52064 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 7
+52096 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 8
+52128 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 32
+Local Exper #: 9
+52160 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 0
+52224 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 1
+52288 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 2
+52352 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 3
+52416 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 4
+52480 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 5
+52544 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 6
+52608 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 7
+52672 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 8
+52736 / 126720
+. . .
+Four Choice: 10
+Experiment: no_lib3
+Inputs: 64
+Local Exper #: 9
+52800 / 126720
+1650321446056757867 1650352226152512829
+Total time: (nanoseconds) 30780095754962
+Total time: (seconds)     30780.095754962
+Total time: (minutes)     33.0
+Total time: (hours)       8.0
+{0: {'lib0': {0: [1.0000006999999997, 0.9937298], 1: [1.0000006999999997, 0.9740145], 2: [1.0000006999999997, 0.9780086000000001], 3: [1.0000006999999997, 0.9801890999999999]}, 'lib3': {0: [1.0000006999999997, 0.9998484000000001], 1: [1.0000006999999997, 0.9640604000000002], 2: [1.0000006999999997, 0.9762744], 3: [1.0000006999999997, 0.9766538]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [1.0000006999999997, 0.9896687]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [1.0000006999999997, 0.9767237000000002]}}, 1: {'lib0': {0: [1.0000006999999997, 0.9801048000000001], 1: [1.0000006999999997, 0.992193], 2: [1.0000006999999997, 0.9920722999999999], 3: [1.0000006999999997, 0.9943199999999999]}, 'lib3': {0: [1.0000006999999997, 0.9999017], 1: [1.0000006999999997, 0.9903224999999999], 2: [1.0000006999999997, 0.9915230999999999], 3: [1.0000006999999997, 0.9936239999999998]}, 'no_lib0': {0: [1.0000006999999997, 0.9998747], 1: [1.0000006999999997, 0.9977696999999999], 2: [1.0000006999999997, 0.9932747], 3: [1.0000006999999997, 0.9929097]}, 'no_lib3': {0: [1.0000006999999997, 0.9983536999999998], 1: [1.0000006999999997, 0.9928617], 2: [1.0000006999999997, 0.9865977000000001], 3: [1.0000006999999997, 0.9809777000000002]}}, 2: {'lib0': {0: [0.9718757, 0.8213914000000001], 1: [0.4929441, 0.44464329999999996], 2: [0.5511866000000001, 0.5165325000000001], 3: [0.7592742, 0.47979220000000006]}, 'lib3': {0: [0.9470594999999999, 0.8573571], 1: [0.9446783, 0.4991106], 2: [1.0000006999999997, 0.6377539], 3: [0.9118798, 0.5668091000000001]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [0.45620570000000005, 0.6141667000000001]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [0.9167786999999998, 0.6312876999999999]}}, 3: {'lib0': {0: [0.9402967999999999, 0.7233964000000002], 1: [0.4646686, 0.37294510000000003], 2: [0.5316854, 0.3926349], 3: [0.5322107000000001, 0.5062000999999999]}, 'lib3': {0: [1.0000006999999997, 0.851655], 1: [0.9640218999999999, 0.4902035000000001], 2: [0.9221077, 0.5341685], 3: [0.9577241000000001, 0.5914591]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [0.4516137000000001, 0.5981006999999999], 2: [0.47619069999999997, 0.5195727000000001], 3: [0.48818970000000006, 0.5753637000000001]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 0.7276277000000001], 2: [1.0000006999999997, 0.6504127000000001], 3: [1.0000006999999997, 0.6243647]}}, 4: {'lib0': {0: [0.9142863999999999, 0.7915627000000001], 1: [0.48955669999999996, 0.4674542], 2: [0.5662303, 0.5441996], 3: [0.5642176000000001, 0.45852820000000005]}, 'lib3': {0: [1.0000006999999997, 0.8889387], 1: [0.9640219, 0.49653210000000003], 2: [0.9277209, 0.6205386999999999], 3: [0.9413594999999999, 0.5667424000000001]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [0.45620570000000005, 0.6141667000000001]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [0.9167786999999998, 0.6312876999999999]}}, 5: {'lib0': {0: [1.0000006999999997, 0.9997102], 1: [1.0000006999999997, 0.9921899999999999], 2: [1.0000006999999997, 0.9882401999999999], 3: [1.0000006999999997, 0.9894739999999999]}, 'lib3': {0: [1.0000006999999997, 0.9995907], 1: [1.0000006999999997, 0.9780234], 2: [1.0000006999999997, 0.9837], 3: [1.0000006999999997, 0.9657]}, 'no_lib0': {0: [1.0000006999999997, 0.9998126999999999], 1: [1.0000006999999997, 0.9894096999999997], 2: [1.0000006999999997, 0.9786246999999999], 3: [1.0000006999999997, 0.9709687]}, 'no_lib3': {0: [1.0000006999999997, 0.9973767], 1: [1.0000006999999997, 0.9715187000000001], 2: [1.0000006999999997, 0.9548696999999999], 3: [1.0000006999999997, 0.9234167]}}, 6: {'lib0': {0: [1.0000006999999997, 0.9779265], 1: [1.0000006999999997, 0.9696243999999998], 2: [1.0000006999999997, 0.9821128], 3: [1.0000006999999997, 0.9717870000000002]}, 'lib3': {0: [1.0000006999999997, 0.9835592999999999], 1: [1.0000006999999997, 0.968547], 2: [1.0000006999999997, 0.9720622999999999], 3: [1.0000006999999997, 0.9648838000000002]}, 'no_lib0': {0: [1.0000006999999997, 0.9997396999999999], 1: [1.0000006999999997, 0.9913206999999999], 2: [1.0000006999999997, 0.9869947000000001], 3: [1.0000006999999997, 0.9680777]}, 'no_lib3': {0: [1.0000006999999997, 0.9966877000000001], 1: [1.0000006999999997, 0.9801737000000001], 2: [1.0000006999999997, 0.9682617], 3: [1.0000006999999997, 0.9219186999999998]}}, 7: {'lib0': {0: [0.1532507, 0.8319312], 1: [0.01519994, 0.6852222], 2: [0.16302090000000002, 0.8320793], 3: [0.26938650000000003, 0.9194110999999999]}, 'lib3': {0: [0.1630007, 0.7571840000000001], 1: [0.0, 0.6478701], 2: [0.16894310000000004, 0.7510529], 3: [0.2705731, 0.8547053]}, 'no_lib0': {0: [0.0, 0.8432217], 1: [0.0, 0.8432217], 2: [0.0, 0.8432217], 3: [0.0, 0.8432217]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [1.0000006999999997, 1.0000006999999997]}}, 8: {'lib0': {0: [1.0000006999999997, 0.9985474], 1: [0.2765966999999999, 0.826286], 2: [0.3041367, 0.8411692000000002], 3: [0.31851569999999996, 0.8647362999999999]}, 'lib3': {0: [0.8451618999999999, 0.9620069000000001], 1: [0.2765966999999999, 0.8038634], 2: [0.3041367, 0.8205244], 3: [0.31851569999999996, 0.8454326999999999]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [1.0000006999999997, 1.0000006999999997]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [1.0000006999999997, 1.0000006999999997], 2: [1.0000006999999997, 1.0000006999999997], 3: [1.0000006999999997, 1.0000006999999997]}}, 9: {'lib0': {0: [1.0000006999999997, 0.8416347], 1: [0.4262623, 0.39229719999999996], 2: [0.6001888, 0.4162527], 3: [0.7638105000000001, 0.4996853999999999]}, 'lib3': {0: [1.0000006999999997, 0.8667013000000001], 1: [1.0000006999999997, 0.5115407999999999], 2: [0.9709578000000001, 0.5458734], 3: [0.9312883, 0.592614]}, 'no_lib0': {0: [1.0000006999999997, 1.0000006999999997], 1: [0.4311667, 0.6343386999999999], 2: [0.4508457, 0.5680977], 3: [0.48818970000000006, 0.5800277000000001]}, 'no_lib3': {0: [1.0000006999999997, 1.0000006999999997], 1: [0.7030577000000001, 0.6940746999999999], 2: [0.7095716999999999, 0.6292437], 3: [0.7121516999999999, 0.6188906999999999]}}, 10: {'lib0': {0: [0.16000069999999997, 0.8624120000000002], 1: [0.1561747, 0.9280842999999999], 2: [0.21357529999999994, 0.9287208999999998], 3: [0.27367299999999994, 0.9460128000000001]}, 'lib3': {0: [0.4431377, 0.8500558999999999], 1: [0.12875043, 0.8116847000000001], 2: [0.21452769999999996, 0.8600663000000001], 3: [0.27619969999999994, 0.8806704999999999]}, 'no_lib0': {0: [0.0, 0.8600057000000001], 1: [0.0, 0.8600057000000001], 2: [0.0, 0.8600057000000001], 3: [0.0, 0.8600057000000001]}, 'no_lib3': {0: [0.4000007, 1.0000006999999997], 1: [0.4516137000000001, 1.0000006999999997], 2: [0.47619069999999997, 1.0000006999999997], 3: [0.48818970000000006, 1.0000006999999997]}}}
+
+. . . . . . .
+. Analytics .
+. . . . . . .
+Experiments Ran: 	52800
+
+ARI Scores: 
+
+
+Four_Choice #0
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    1.0000006    1.0000006    1.0000006   
+lib3         1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #1
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    1.0000006    1.0000006    1.0000006   
+lib3         1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #2
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9718757    0.4929441    0.5511866    0.7592742   
+lib3         0.9470595    0.9446783    1.0000006    0.9118798   
+no_lib0      1.0000006    1.0000006    1.0000006    0.4562057   
+no_lib3      1.0000006    1.0000006    1.0000006    0.9167786   
+
+
+Four_Choice #3
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9402968    0.4646686    0.5316854    0.5322107   
+lib3         1.0000006    0.9640218    0.9221077    0.9577241   
+no_lib0      1.0000006    0.4516137    0.4761907    0.4881897   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #4
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9142864    0.4895567    0.5662303    0.5642176   
+lib3         1.0000006    0.9640219    0.9277209    0.9413594   
+no_lib0      1.0000006    1.0000006    1.0000006    0.4562057   
+no_lib3      1.0000006    1.0000006    1.0000006    0.9167786   
+
+
+Four_Choice #5
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    1.0000006    1.0000006    1.0000006   
+lib3         1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #6
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    1.0000006    1.0000006    1.0000006   
+lib3         1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #7
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.1532507    0.0151999    0.1630209    0.2693865   
+lib3         0.1630007    0.0          0.1689431    0.2705731   
+no_lib0      0.0          0.0          0.0          0.0         
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #8
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    0.2765966    0.3041367    0.3185156   
+lib3         0.8451619    0.2765966    0.3041367    0.3185156   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #9
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         1.0000006    0.4262623    0.6001888    0.7638105   
+lib3         1.0000006    1.0000006    0.9709578    0.9312883   
+no_lib0      1.0000006    0.4311667    0.4508457    0.4881897   
+no_lib3      1.0000006    0.7030577    0.7095716    0.7121516   
+
+
+Four_Choice #10
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.1600006    0.1561747    0.2135752    0.2736729   
+lib3         0.4431377    0.1287504    0.2145276    0.2761996   
+no_lib0      0.0          0.0          0.0          0.0         
+no_lib3      0.4000007    0.4516137    0.4761907    0.4881897   
+
+
+
+
+Sil Scores: 
+
+
+
+Four_Choice #0
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9937298    0.9740145    0.9780086    0.9801891   
+lib3         0.9998484    0.9640604    0.9762744    0.9766538   
+no_lib0      1.0000006    1.0000006    1.0000006    0.9896687   
+no_lib3      1.0000006    1.0000006    1.0000006    0.9767237   
+
+
+Four_Choice #1
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9801048    0.992193     0.9920723    0.9943199   
+lib3         0.9999017    0.9903224    0.991523     0.9936239   
+no_lib0      0.9998747    0.9977696    0.9932747    0.9929097   
+no_lib3      0.9983536    0.9928617    0.9865977    0.9809777   
+
+
+Four_Choice #2
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.8213914    0.4446433    0.5165325    0.4797922   
+lib3         0.8573571    0.4991106    0.6377539    0.5668091   
+no_lib0      1.0000006    1.0000006    1.0000006    0.6141667   
+no_lib3      1.0000006    1.0000006    1.0000006    0.6312876   
+
+
+Four_Choice #3
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.7233964    0.3729451    0.3926349    0.5062      
+lib3         0.851655     0.4902035    0.5341685    0.5914591   
+no_lib0      1.0000006    0.5981006    0.5195727    0.5753637   
+no_lib3      1.0000006    0.7276277    0.6504127    0.6243647   
+
+
+Four_Choice #4
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.7915627    0.4674542    0.5441996    0.4585282   
+lib3         0.8889387    0.4965321    0.6205386    0.5667424   
+no_lib0      1.0000006    1.0000006    1.0000006    0.6141667   
+no_lib3      1.0000006    1.0000006    1.0000006    0.6312876   
+
+
+Four_Choice #5
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9997102    0.9921899    0.9882401    0.9894739   
+lib3         0.9995907    0.9780234    0.9837       0.9657      
+no_lib0      0.9998126    0.9894096    0.9786246    0.9709687   
+no_lib3      0.9973767    0.9715187    0.9548697    0.9234167   
+
+
+Four_Choice #6
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9779265    0.9696243    0.9821128    0.971787    
+lib3         0.9835593    0.968547     0.9720623    0.9648838   
+no_lib0      0.9997396    0.9913207    0.9869947    0.9680777   
+no_lib3      0.9966877    0.9801737    0.9682617    0.9219186   
+
+
+Four_Choice #7
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.8319312    0.6852222    0.8320793    0.9194111   
+lib3         0.757184     0.6478701    0.7510529    0.8547053   
+no_lib0      0.8432217    0.8432217    0.8432217    0.8432217   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #8
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.9985474    0.826286     0.8411692    0.8647362   
+lib3         0.9620069    0.8038634    0.8205244    0.8454327   
+no_lib0      1.0000006    1.0000006    1.0000006    1.0000006   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+
+
+Four_Choice #9
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.8416347    0.3922971    0.4162526    0.4996853   
+lib3         0.8667013    0.5115407    0.5458733    0.592614    
+no_lib0      1.0000006    0.6343386    0.5680977    0.5800277   
+no_lib3      1.0000006    0.6940746    0.6292437    0.6188906   
+
+
+Four_Choice #10
+
+FLAGS        8 INPUTS     16 INPUTS    24 INPUTS    32 INPUTS    40 INPUTS    48 INPUTS    52 INPUTS    64 INPUTS   
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+lib0         0.862412     0.9280842    0.9287208    0.9460128   
+lib3         0.8500558    0.8116847    0.8600663    0.8806705   
+no_lib0      0.8600057    0.8600057    0.8600057    0.8600057   
+no_lib3      1.0000006    1.0000006    1.0000006    1.0000006   
+Done!

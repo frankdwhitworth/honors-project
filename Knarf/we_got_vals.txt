@@ -1,0 +1,1106 @@
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/0four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/1four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/2four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 0
+Experiment: lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/0four_choice.c', '-O3']
+. . .
+Four Choice: 0
+Experiment: no_lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 1
+Experiment: lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/1four_choice.c', '-O3']
+. . .
+Four Choice: 1
+Experiment: no_lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 2
+Experiment: lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/2four_choice.c', '-O3']
+. . .
+Four Choice: 2
+Experiment: no_lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+In file included from /home/whitfd18/Knarf/code_files/four_programs/3four_choice.c:14:
+/home/whitfd18/Knarf/code_files/four.h: In function ‘binaryIt’:
+/home/whitfd18/Knarf/code_files/four.h:82:15: warning: implicit declaration of function ‘binarySearch’; did you mean ‘binaryIt’? [-Wimplicit-function-declaration]
+     int res = binarySearch(arr, 0, n-1, x);
+               ^~~~~~~~~~~~
+               binaryIt
+gmm_cluster.py:185: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['group'][ind] = str(int(df['arg'][ind]) % 4)
+
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3', '-l']
+. . .
+Four Choice: 3
+Experiment: lib3
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib0
+Inputs: 64
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 8
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 16
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 32
+Expers: 0
+['./run_exper.sh', '/home/whitfd18/Knarf/code_files/four_programs/3four_choice.c', '-O3']
+. . .
+Four Choice: 3
+Experiment: no_lib3
+Inputs: 64
+Expers: 0
+{0: {'lib0': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['1.0000007']}, 'lib3': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['1.0000007']}, 'no_lib0': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['0.6970117']}, 'no_lib3': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['0.6970117']}}, 1: {'lib0': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['1.0000007']}, 'lib3': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['1.0000007']}, 'no_lib0': {0: ['1.0000007'], 1: ['0.6443517'], 2: ['0.6796127'], 3: ['0.6970117']}, 'no_lib3': {0: ['1.0000007'], 1: ['0.6443517'], 2: ['0.6796127'], 3: ['0.6970117']}}, 2: {'lib0': {0: ['0.6842117'], 1: ['0.1561747'], 2: ['0.2156127'], 3: ['0.3363117']}, 'lib3': {0: ['0.6842117'], 1: ['0.1561747'], 2: ['0.3396317'], 3: ['0.3363117']}, 'no_lib0': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['1.0000007'], 3: ['0.6326497']}, 'no_lib3': {0: ['1.0000007'], 1: ['1.0000007'], 2: ['0.7095717'], 3: ['0.6326497']}}, 3: {'lib0': {0: ['0.3333337'], 1: ['0.0773677'], 2: ['0.3045987'], 3: ['0.2609357']}, 'lib3': {0: ['0.3333337'], 1: ['0.0773677'], 2: ['0.2156127'], 3: ['0.2630987']}, 'no_lib0': {0: ['0.5833337'], 1: ['0.2078857'], 2: ['0.1326167'], 3: ['-0.0101317']}, 'no_lib3': {0: ['0.5833337'], 1: ['0.2947607'], 2: ['0.3315977'], 3: ['0.1574167']}}}
+
+. . . . . . .
+. Analytics .
+. . . . . . .
+Experiments Ran: 	1920
+
+
+Four_Choice #0
+
+FLAGS        8 INPUTS     16 INPUTS    32 INPUTS    64 INPUTS    128 INPUTS   256 INPUTS  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Traceback (most recent call last):
+  File "./massive_experiment.py", line 149, in <module>
+    main(sys.argv)
+  File "./massive_experiment.py", line 140, in main
+    avg+=num
+TypeError: unsupported operand type(s) for +=: 'int' and 'str'

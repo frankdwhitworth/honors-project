@@ -1,0 +1,125 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\pgfsetcolor{black}
+  % Edge: binaryIt -> binarySearch
+  \draw [->,solid] (73.443bp,71.831bp) .. controls (73.443bp,64.131bp) and (73.443bp,54.974bp)  .. (73.443bp,36.413bp);
+  % Edge: main -> binaryIt
+  \draw [->,solid] (260.76bp,152.44bp) .. controls (224.56bp,140.37bp) and (161.87bp,119.48bp)  .. (109.45bp,102.0bp);
+  % Edge: main -> readIt
+  \draw [->,solid] (267.97bp,147.95bp) .. controls (251.75bp,137.33bp) and (229.22bp,122.58bp)  .. (202.38bp,105.01bp);
+  % Edge: main -> modFour
+  \draw [->,solid] (289.44bp,143.83bp) .. controls (289.44bp,136.13bp) and (289.44bp,126.97bp)  .. (289.44bp,108.41bp);
+  % Edge: main -> shiftIt
+  \draw [->,solid] (310.91bp,147.95bp) .. controls (327.14bp,137.33bp) and (349.66bp,122.58bp)  .. (376.51bp,105.01bp);
+  % Edge: main -> forkIt
+  \draw [->,solid] (315.67bp,150.56bp) .. controls (321.17bp,148.29bp) and (326.97bp,145.99bp)  .. (332.44bp,144.0bp) .. controls (383.18bp,125.56bp) and (397.5bp,125.85bp)  .. (448.44bp,108.0bp) .. controls (450.85bp,107.16bp) and (453.32bp,106.27bp)  .. (465.36bp,101.75bp);
+  % Node: binaryIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (73.44bp,90.0bp) ellipse (48.19bp and 18.0bp);
+  \draw (73.443bp,90.0bp) node {binaryIt};
+\end{scope}
+  % Node: binarySearch
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (73.44bp,18.0bp) ellipse (73.39bp and 18.0bp);
+  \draw (73.443bp,18.0bp) node {binarySearch};
+\end{scope}
+  % Node: main
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (289.44bp,162.0bp) ellipse (33.6bp and 18.0bp);
+  \draw (289.44bp,162.0bp) node {main};
+\end{scope}
+  % Node: readIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (179.44bp,90.0bp) ellipse (39.79bp and 18.0bp);
+  \draw (179.44bp,90.0bp) node {readIt};
+\end{scope}
+  % Node: modFour
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (289.44bp,90.0bp) ellipse (51.99bp and 18.0bp);
+  \draw (289.44bp,90.0bp) node {modFour};
+\end{scope}
+  % Node: shiftIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (399.44bp,90.0bp) ellipse (39.79bp and 18.0bp);
+  \draw (399.44bp,90.0bp) node {shiftIt};
+\end{scope}
+  % Node: forkIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (494.44bp,90.0bp) ellipse (37.89bp and 18.0bp);
+  \draw (494.44bp,90.0bp) node {forkIt};
+\end{scope}
+  % Node: log10It
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (385.44bp,162.0bp) ellipse (44.39bp and 18.0bp);
+  \draw (385.44bp,162.0bp) node {log10It};
+\end{scope}
+  % Node: dynamicIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (505.44bp,162.0bp) ellipse (57.69bp and 18.0bp);
+  \draw (505.44bp,162.0bp) node {dynamicIt};
+\end{scope}
+  % Node: writeIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (624.44bp,162.0bp) ellipse (42.79bp and 18.0bp);
+  \draw (624.44bp,162.0bp) node {writeIt};
+\end{scope}
+  % Node: expIt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (720.44bp,162.0bp) ellipse (35.19bp and 18.0bp);
+  \draw (720.44bp,162.0bp) node {expIt};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+
+

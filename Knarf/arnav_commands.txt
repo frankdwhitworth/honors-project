@@ -1,0 +1,2000 @@
+ls
+cd ..
+ls
+vi create_profile.py 
+python create_profile.py 
+vi create_profile.py 
+cd trials/ALL_prf/
+ls
+mv stat.ins ./../ins_files/
+cd ..
+ls
+cd ins_files/
+ls
+mv tail.ins ./all/
+ls
+cd ..
+ls
+python create_profile.py 
+vi cluster_static_profiles.py 
+python create_profile.py 
+python cluster_static_profiles.py 
+vi cluster_static_profiles.py 
+python cluster_static_profiles.py 
+vi cluster_static_profiles.py 
+python cluster_static_profiles.py 
+vi cluster_static_profiles.py 
+cd trials/profiles/
+ls
+cd ..
+ls
+cd ALL_prf/
+ls
+cp stat.prf ./../profiles/
+cd 
+cd publication_exp/
+ls
+python cluster_static_profiles.py 
+ls
+vi cluster_static_profiles.py 
+python cluster_static_profiles.py 
+ls
+cd dynamic/
+ls
+cd profiles
+ld
+ls
+vi ls_.dev.block_no_lib_0.prf 
+vi ls_.dev.disk.by-id_no_lib_8.prf 
+ls
+cd ..
+ls
+cd ..
+vi cluster_static_profiles.py 
+cd ..
+cd publication_exp/
+python cluster_static_profiles.py 
+ls
+sha256sum fulp_code.py 
+md5sum fulp_code.py 
+ls
+cd publication_exp/
+ls
+cd trials/
+ls
+cp ~/tools/mappy.py .
+cp ~/tools/intel20.map .
+ls
+mkdir min_files
+mv intel20.map min_files/
+mv mappy.py min_files/
+ls
+cd min_files/
+./mappy.py -i ../ins_files/stat.ins -m intel20.map 
+vi mappy.py 
+cd ../..
+ls
+cd ../
+cd Thesis_Final/
+ls
+vi cat_.etc.adduser.conf_no_lib_5.ins 
+cd
+cd publication_exp/trials/
+ls
+vi ins_files/stat.ins 
+cd 
+cd Thesis_Final/
+cd Seq4Map4/
+vi *mins
+ls
+cd publication_exp/
+ls
+cd trials/
+ls
+cd ins_files/
+ls
+vi stat.ins 
+mv stat.ins ./all/
+ls
+cd
+cd Thesis_Final/Seq4Map28/
+ls
+vi cat_.etc.adduser.conf_no_lib_5.ins 
+cd 
+cd publication_exp/
+ls
+vi cluster_static_profiles.py 
+ls
+vi create_profile.py 
+cd Data/
+ls
+cd ..
+ls
+cd Thesis_Final/
+ls
+vi cat_.etc.adduser.conf_no_lib_5.ins 
+vi mappy.py 
+cd ..
+ls
+cd publication_exp/
+ls
+cd trials/
+ls
+cd min_files/
+ls
+history | grep objdump
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print $1} {print $2} {print $3}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print $0 $1 $2 $3}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print $3}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print "x" "x" $3 "x"}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print "x " "x " $3 "x"}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print "x\s" "x " $3 "x"}' | cut -d" " -f1 | sed '/^$/d' 
+objdump -d /usr/bin/stat | awk '{FS="\t"} {print $3 "x"}' | cut -d" " -f1 | sed '/^$/d' 
+ls
+cp ../ins_files/all/* .
+ls
+rm bcrypt.ins df.ins findmnt.ins find.ins openssl.ins sha224sum.ins cat.ins lsblk.ins more.ins pwd.ins 
+ls
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python3 script.py 
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+python script.py > ls.mins
+vi ls.mins 
+vi ls.ins 
+vi ls.mins 
+vi script.py
+python script.py > ls.mins
+vi script.py
+python script.py > stat.mins
+vi stat.mins 
+vi script.py
+python script.py > ls.mins
+vi script.py
+python script.py > sha256sum.mins
+vi sha256sum.mins 
+vi script.py
+python script.py > md5sum.mins
+vi md5sum.mins 
+ls *.mins
+vi script.py
+python script.py > head.mins
+vi head.mins 
+vi script.py
+python script.py > tail.mins
+ls
+ls *.mins
+./mappy -i ls.mins -m intel20.map 
+./mappy.py -i ls.mins -m intel20.map 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi script.py
+python script.py 
+vi head.mins 
+vi script.py
+vi head.mins 
+python script.py 
+vi head.mins 
+./mappy -i ls.mins -m intel20.map 
+./mappy.py -i ls.mins -m intel20.map 
+vi head.mins 
+vi script.py
+python script.py 
+./mappy.py -i ls.mins -m intel20.map 
+vi ls.mins 
+vi mappy.py 
+rm *.mins
+ls
+./mappy.py -i ls.mins -m intel20.map 
+./mappy.py -i ls.ins -m intel20.map 
+cd ..
+ls
+vi ins_files/
+cd ins_files/
+ls
+cd all/
+ls
+cd ../../
+ls
+cd min_files/
+ls
+vi mappy.py 
+ls
+./mappy.py -i ls.ins -m intel20.map 
+cp ~/tools/mappy.py .
+ls -al
+rm mappy.py 
+cp ~/tools/mappy.py .
+ls
+ls -al
+vi head.ins 
+ls
+vi script.py 
+vi intel20.map 
+cd ../fulp/ICNSS20/Profiles/
+ls
+cd Clustering/
+ls
+cd publication_exp/
+ls
+cd 
+cd publication_exp/dynamic/
+ls
+cd ..
+ls
+cd trials/
+ls
+cd min_files/
+ls
+cp cluster_profiles.py ~/publication_exp/dynamic/profiles
+cd  ~/publication_exp/dynamic/profiles
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd fulp/
+ls
+cd ICNSS20/
+ls
+vi copy_files.sh 
+cd Files/
+ls
+cd ..
+cd Profiles/
+ls
+ls *.prf
+ls *.mprf
+cd ..
+ls
+vi copy_files.sh 
+cd Files/
+ls
+cd ..
+cd
+cd publication_exp/
+ls
+cd dynamic/
+ls
+cd ..
+ls
+mkdir FINAL_pub
+cd FINAL_pub/
+cp ~/../fulp/ICNSS20/* .
+ks
+ls
+vi pappy2.py 
+./copy_files.sh 
+ls
+./pappy2.py -c "ls" -a ./file_list.txt 
+cp ~/tools/snooper2 .
+./pappy2.py -c "ls" -a ./file_list.txt 
+ls
+rm ls_.usr.include.*
+ls
+./pappy2.py -c "head" -a ./file_list.txt 
+cd
+cd ../fulp/ICNSS20/
+ls
+cd Files/
+ls
+cd ..
+cd Profiles/
+ls
+cd Clustering/
+ls
+cd ..
+ls
+pwd
+cd
+ls
+cd publication_exp/
+ls
+cd FINAL_pub/
+ls
+cd ..
+ls
+mkdir FINAL
+cd FINAL
+cp /home/fulp/ICNSS20/Profiles/*.ins .
+ls
+vi head_Dn_100_...File.argp.h_no_lib_0.ins 
+rm *
+ls
+cd ..
+ls
+cd FINAL_pub/
+ls
+rm head_.usr.include.*
+./pappy2.py -c "head -n 100" -a ./file_list.txt 
+./pappy2.py -c "tail -n 100" -a ./file_list.txt 
+./pappy2.py -c "md5sum" -a ./file_list.txt 
+./pappy2.py -c "sha256sum" -a ./file_list.txt 
+ls
+cd 
+cd publication_exp/
+ls
+cd dynamic/
+ls
+mkdir older
+mv old ./older/
+mv profiles ./older/
+mv profiles4/ ./older/
+mv profiles3/ ./older/
+mv profiles20/ ./older/
+mv profiles28/ ./older/
+ls
+cd tools/
+ls
+cd ..
+l
+s
+ls
+cd profiles_lib/
+ls
+cd ..
+ls
+mv profiles_lib/ ./older/
+mkdir profiles
+cd tools/
+ls
+./pappy2.py -c "ls" -a ./file_paths.txt 
+./pappy2.py -c "stat" -a ./file_paths.txt 
+ls
+cp *.prf ../profiles/
+cd ..
+cd profiles/
+ls
+cp ~/publication_exp/FINAL_pub/*.prf .
+la
+ls
+cp ~/../fulp/ICNSS20/Profiles/Clustering/cluster_profiles.py .
+ls
+./cluster_profiles.py -r "ls*" "stat*" "tail*" "head*" "sha256*" "md5*"
+ls
+cd publication_exp/
+ls
+cd trials/
+ls
+cd min_files/
+ls
+cd 
+ls
+cd publication_exp/trials/min_files/
+ls
+vi head.mins 
+vi head.mprf 
+cd
+cd ../fulp/ICNSS20/
+ls
+mkdir static_prfs
+cd
+cd publication_exp/trials/min_files/
+ls
+diff cluster_profiles.py cluster_profiles_1.py 
+ls
+cd ..
+ls
+mkdir static_all
+cd trials/
+ls
+cd profiles/
+ls
+rm bcrypt.prf 
+ls
+rm find.prf 
+l
+s
+ls
+rm cat.prf 
+ls
+rm more.prf 
+ls
+rm pwd.prf 
+ls
+cp * ~/../fulp/ICNSS20/New_Results/Static/
+cd 
+cd publication_exp/static_all/
+cd ..
+ls
+cd ..
+mkdir ICNSS20
+cd ICNSS20/
+mkdir New_Results
+cd New_Results/
+l
+s
+ls
+mkdir Static 
+mkdir Dynamic 
+cp ~/publication_exp/trials/profiles/* ./Static/
+cd Static/
+ls
+cp ~/publication_exp/trials/min_files/*ins .
+ls
+rm *.nins
+ls
+cp ~/publication_exp/trials/min_files/*.mprf .
+ls
+ls *mprf
+ls *prf
+ls *.prf
+cd ..
+ls
+cd Dynamic/
+cd ..
+cd Static/
+ls
+cp ~/../fulp/ICNSS20/Tools/Profiles/Clustering/*.py .
+ls
+./cluster_profiles.py -r "stat.prf" "ls.prf" "head.prf" "tail.prf" "md5sum.prf" "sha256sum.prf"
+./cluster_profiles.py -r "stat.mprf" "ls.mprf" "head.mprf" "tail.mprf" "md5sum.mprf" "sha256sum.mprf"
+cp ~/publication_exp/trials/min_files/cluster_profiles_1.py .
+./cluster_profiles_1.py -r "stat.mprf" "ls.mprf" "head.mprf" "tail.mprf" "md5sum.mprf" "sha256sum.mprf"
+ls
+diff cluster_profiles_1.py cluster_profiles.py 
+./cluster_profiles_1.py -r "stat.mprf" "ls.mprf" "head.mprf" "tail.mprf" "md5sum.mprf" "sha256sum.mprf"
+./cluster_profiles_1.py -r "stat.prf" "ls.prf" "head.prf" "tail.prf" "md5sum.prf" "sha256sum.prf"
+vi head.mprf 
+vi head.prf 
+vi head.mprf 
+vi head.prf 
+vi head.mprf 
+ls
+ls *prf
+ls *.prf
+cd ..
+ls
+cd ..
+ls
+cd 
+cd publication_exp/
+ls
+vi create_profile.py 
+ls
+cd trials/
+ls
+cd ins_files/
+ls
+cp ~/ICNSS20/New_Results/Static/*.ins
+cp ~/ICNSS20/New_Results/Static/*.ins .
+ls
+cd ..
+ls
+python create_profile.py 
+vi create_profile.py 
+python create_profile.py 
+cd trials/
+ls
+mv *.prf ~/ICNSS20/New_Results/Static/ 
+cd
+cd ICNSS20/New_Results/Static/
+ls
+./cluster_profiles_1.py -r "stat.prf" "ls.prf" "head.prf" "tail.prf" "md5sum.prf" "sha256sum.prf"
+./cluster_profiles_1.py -r "stat.mprf" "ls.mprf" "head.mprf" "tail.mprf" "md5sum.mprf" "sha256sum.mprf"
+cd
+cd ICNSS20/New_Results/Dynamic/
+ls
+cp ~/../fulp/ICNSS20/Tools/* .
+ls
+cp ~/tools/mappy.py .
+ls
+cp ~/tools/snooper2 .
+ls
+vi file_list.txt 
+rm copy_files.sh 
+ls
+cd ICNSS20/New_Results/Dynamic/
+ls
+cd
+cd ..
+cd fulp/
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ls
+cd Dynamic/
+ls
+cd ..
+cd Static/
+ls
+c d..
+cd ..
+ls
+cd ..
+ls
+cd Tools/
+ls
+cd Profiles/
+ls
+cd 
+cd ICNSS20/New_Results/Dynamic/
+ls
+./pappy2.py -c "stat" -a ./file_list.txt 
+./pappy2.py -c "ls -al" -a ./file_list.txt 
+./pappy2.py -c "tail -n 100" -a ./file_list.txt 
+./pappy2.py -c "head -n 100" -a ./file_list.txt 
+./pappy2.py -c "md5sum" -a ./file_list.txt 
+./pappy2.py -c "sha256sum" -a ./file_list.txt 
+cd ICNSS20/New_Results/Dynamic/
+ls
+mkdir Profiles
+mv *.prf ./Profiles/
+ls
+rm *.ins
+rm *.out
+ls
+cd Profiles/
+ls
+cp ~/../fulp/ICNSS20/Tools/Profiles/Clustering/cluster_profiles.py .
+history | grep cluster
+./cluster_profiles.py -r "ls*" "stat*" "tail*" "head*" "sha256*" "md5*"
+cd ..
+ls
+mkdir Mapped_Profiles
+history | grep mappy
+history | grep intel20.map 
+./pappy2.py -m intel20.map -c "ls -al" -a ./file_list.txt 
+./pappy2.py -m intel20.map -c "stat" -a ./file_list.txt 
+./pappy2.py -m intel20.map -c "sha256sum" -a ./file_list.txt 
+./pappy2.py -m intel20.map -c "md5sum" -a ./file_list.txt 
+./pappy2.py -m intel20.map -c "tail -n 100" -a ./file_list.txt 
+./pappy2.py -m intel20.map -c "head -n 100" -a ./file_list.txt 
+ls
+mv *.mprf ./Mapped_Profiles/
+ls
+rm *ins
+rm *.out
+ls
+cd Mapped_Profiles/
+ls
+cp ./../Profiles/cluster_profiles.py .
+ls
+cd ../Profiles/
+ls
+cd ../Mapped_Profiles/
+ls
+./cluster_profiles.py -r "ls*" "stat*" "tail*" "head*" "sha256*" "md5*"
+cd
+cd ../fulp/ICNSS20/Tools/Profiles/Clustering/
+ls
+./cluster_profiles.py -r "ls*" "stat*" "tail*" "head*" "sha256*" "md5*"
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ks
+ls
+cd Dynamic/
+ls
+cd
+ls
+cd ..
+ls
+cd fulp/
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ls
+cd Dynamic/
+ls
+cd ..
+cd Static/
+ls
+cd ..
+ls
+cd ..
+ls
+cd Tools/
+ls
+cd
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ls
+cd Dynamic/
+ls
+cd Profiles/
+ls
+cd ..
+ls
+cd
+ls
+cd ..
+ls
+cd publication_exp/
+ls
+cd C/
+ls
+cd ..
+ls
+dir
+ls
+dir
+lis
+ls
+mkdir old_stuff 
+mv * ./old_stuff/
+ls
+mkdir new_stuff 
+cd new_stuff/
+ls
+cd ..
+ls
+mv old_stuff/ ./thesis_and_publication_1
+ls
+mv new_stuff/ ./error_handling
+cd thesis_and_publication_1/
+ls
+ls -al
+cd C/
+ls
+cd Snooper2/
+ls
+ls -al
+ls
+cd ..
+ls
+cd ..
+ls
+cd tools/
+ls
+ls -al
+cd
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+etc
+cd etc/
+ls
+cat os-release 
+cd
+ls
+cd error_handling/
+ls
+cd
+ls
+cd thesis_and_publication_1/
+ls
+cd tools/
+ls
+cp snooper2 ~/error_handling/
+ls
+cd ..
+l
+s
+ls
+cd ..
+ls
+cd error_handling/
+ls
+vi seg_fault.cc
+gcc seg_fault.cc 
+ls
+./a.out 
+cat a.out 
+ls
+vi a.out 
+snooper2 ./a.out 
+./snooper2 ./a.out 
+ls
+vi seg_fault.cc 
+gcc seg_fault.cc 
+ls
+mv seg_fault.cc seg_fault.c
+ls
+gcc seg_fault.cc 
+gcc seg_fault.c
+vim seg_fault.c 
+gcc seg_fault.c
+gcc seg_fault.c -o seg_fault.o
+ls
+./a.out 
+vim seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+./seg_fault.o 
+rm a.out 
+ls
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+ls
+./seg_fault.o 
+vi seg_fault.c 
+gcc seg_fault.c -o seg_fault.o
+vi seg_fault.c 
+Z
+gcc seg_fault.c -o seg_fault.o
+ls
+vi seg_fault.cpp
+g++ -wall -pedantic seg_fault.cpp 
+g++ -Wall -pedantic seg_fault.cpp 
+vi seg_fault.cpp
+g++ -Wall -pedantic seg_fault.cpp 
+g++ -wall -pedantic seg_fault.cpp 
+g++ seg_fault.cpp 
+l
+s
+ls
+vi seg_fault.cpp 
+ls
+cat snooper2 
+ls
+vi snooper2 
+pwd
+ls
+mkdir tar_stuff
+cp snooper2_source.tar ./tar_stuff/
+cd tar_stuff/
+ls
+tar -xvf snooper2_source.tar 
+ls
+vi snooper2
+vi snooper2.c 
+cd tar_stuff/
+ls
+vi udis86.h 
+ls
+cd tar_stuff/
+ls
+vi snooper2.c 
+ls
+ls
+cd error_handling/
+ls
+cd ..
+ls
+mkdir new_stuff 
+mv snooper2_source.tar ./new_stuff/
+mv tar_stuff/ ./new_stuff/
+mv error_handling/ ./new_stuff/
+ls
+cd new_stuff/
+ls
+mkdir new_pipeline 
+ls
+pip install pyudis86
+sudo yum install docker-engine -y
+ls
+cd ..
+ls
+cd ..
+ls
+cd new_stuff/
+ls
+rm -r error_handling/
+cd ..
+ls
+cd ..
+l
+s
+ls
+cd bhana13/
+ls
+cd new_stuff/
+ls
+cd tar_stuff/
+ls
+cd ..
+ls
+cd ..
+ls
+cd thesis_and_publication_1/
+ls
+cd C/
+ls
+cd ..
+cd Data/
+ls
+cd ..
+rm -rf Data/
+top
+df
+ls
+ls -al
+ls
+cd JavaVSC/
+ls
+cd ..
+rm -rf JavaVSC/
+ls
+cd C
+l
+s
+ls
+cd ..
+ls
+rm -rf C
+pwd
+pswd
+password
+passwd
+ls
+cd New/
+ls
+cd ..
+l
+s
+ls
+rm -rf New/
+ls
+cd ..
+ls
+cd ..
+ls
+cd bhana13/
+ls
+cat cluster_profiles.py 
+ls
+du -xk | sort -n | tail -25
+ls
+cd thesis_and_publication_1/
+ls
+cd Thesis_Final/
+ls
+rm *.sprf
+rm *.sp
+rm *.ins
+ls
+rm -rf Seq16Map3/
+rm -rf Seq8Map3/
+rm -rf Seq4Map3/
+rm -rf Seq4Map4/
+rm -rf Seq4Map20/
+rm -rf Seq4Map28/
+rm -rf Seq4Map3
+ls
+rm -rf Seq2Map3/
+cd temp/
+ls
+cd ..
+rm -rf temp/
+ls
+cd ..
+ls
+cd ThesisSummerFinal/
+ls
+rm *.ins
+rm *.prf
+ls
+rm *.out
+ls
+cd ..
+ls
+cd ..
+l
+s
+ls
+du -xk | sort -n | tail -25
+cd thesis_and_publication_1/publication_exp/
+ls
+cd FINAL_pub/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+mv cluster_profiles.py ./thesis_and_publication_1/
+ls
+cd ..
+ls
+cd bhana13/
+ls
+cd new_stuff/
+ls
+cd new_pipeline/
+ls
+docker
+python --version
+python3 --version
+cd
+ls
+du -xk | sort -n | tail -25
+cd thesis_and_publication_1/
+ls
+cd publication_exp/
+ls
+cd FINAL_pub/
+ls
+rm *prf
+rm *ins
+ls
+rm *out
+ls
+cd ..
+ls
+cd ..
+ls
+du -xk | sort -n | tail -25
+udis
+pip install 
+docker --version
+env
+pipenv shell
+ls
+cd ..
+cd new_pipeline/
+ls
+docker
+ls
+docker-compose up --build
+docker
+docker-compose up --build
+docker-compose --build
+docker ps
+sudo groupadd docker
+cd
+ls
+cd thesis_and_publication_1/
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ls
+cd Static/
+ls
+ls -al
+docker-compose --build
+docker-compose up --build
+docker exec -it 0a3f511b65c60348a8e403e8aa8387baf06e6f7141fadd984746af4d8f52ef35 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ps
+ps -ef
+docker logs -f 07195403f13e2ebfb0445a985a2da8906d0fcc9eac7ad1ee68502832b0d527e4
+ls
+docker-compose up --build
+docker-compose up
+ZZZ
+docker-compose up
+docker-compose up --build
+clear
+docker-compose up --build
+cd 
+cd ..
+ls
+cd ..
+l
+s
+ls
+cd var
+ls
+du -h
+cd ..
+ls
+du -h ./var/
+docker exec -it 67e981f37cc1f96e7b8eb55dc6382b4514638a5601bf72d208a78849da01942a /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ls
+ls
+cd ..
+ls
+cd tar_stuff/
+ls
+cd ..
+ls
+mv snooper2_source.tar ./new_pipeline/
+ls
+cd new_pipeline/
+ls
+cd ..
+ls
+cd ..
+ls
+cd thesis_and_publication_1/
+ls
+cd Snooper/
+ls
+cd assemblyAnalysis/
+ls
+cd ../../
+ls
+cd tools/
+ls
+cp snooper2 ~/new_stuff/new_pipeline/
+cd
+cd new_stuff/new_pipeline/
+ls
+cd ..
+ls
+cd new_pipeline/
+mv snooper2_source.tar ./../
+cd ..
+ls
+cd new_pipeline/
+ls
+./snooper2 ls
+ls
+./snooper2 ls > ls.txt
+docker-compose up --build
+ls
+diff volume_ls.txt ls.txt 
+cd volume_ls.txt/
+ls
+cd ..
+rm -r volume_ls.txt/
+docker-compose up --build
+ls
+cd volume/
+ls
+docker-compose up --build
+ls
+cd ..
+ls
+docker-compose up --build
+docker-compose bash 
+docker cp 4b3b3882dc4130049c56413401aeaa43f81558cfb9caa3b36b48241efa09ec0b:usr/src/workdir/profile/ ./
+ls
+cd profile/
+ls
+docker cp 4b3b3882dc4130049c56413401aeaa43f81558cfb9caa3b36b48241efa09ec0b:usr/src/workdir/ ./
+ls
+cd workdir/
+ls
+cd profilep
+cd profile
+ls
+cd ..
+ls
+cd profiles
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+docker run 4b3b3882dc4130049c56413401aeaa43f81558cfb9caa3b36b48241efa09ec0b bash
+docker run -it --entrypoint bash 4b3b3882dc4130049c56413401aeaa43f81558cfb9caa3b36b48241efa09ec0b
+docker run --rm -it  wfu_cs/disassembly:latest
+ls
+docker exec -it fbc79b2c5dc18a286458dc52d3a70ddfe302860ae8bc3cb7f35d9edc17784299 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ls
+cd volume/
+ls
+cd ..
+ls
+docker run -it ubuntu bash
+docker run -it wfu_cs/disassembly bash
+docker-compose up --build
+ls
+cd vp
+cd volume/
+ls
+docker run -it wfu_cs/disassembly bash
+ls
+docker run -it --entrypoint bash 4b3b3882dc4130049c56413401aeaa43f81558cfb9caa3b36b48241efa09ec0b
+docker-compose up --build
+ls
+./snooper2 ls > ./volume/ls.txt
+./snooper2 ls > ls.txt
+ls
+./snooper2 ls > ls.txt
+ls
+rm ls.txt 
+docker-compose up --build
+ls
+cd volume/
+ls
+cd ..
+rm -rf volume/
+ls
+cd profile/
+ls
+cd workdir/
+ls
+cd profile
+ls
+cd ..
+ls
+cd profiles
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf profile/
+docker-compose up --build
+ls
+cd volume/
+s
+ls
+history | grep 'bash'
+docker run wfu_cs/disassembly -it
+docker-compose up --build
+ls
+docker run wfu_cs/disassembly -it
+ls
+c d..
+cd ..
+ls
+docker run wfu_cs/disassembly -it
+docker-compose up --build
+docker cp wfu_cs/disassembly:/usr/src/myapp/docker_ls.txt .
+docker cp c5549331ae5ba1b499c014335e040cb6ac4fc4d7341ff7b1efea8358bb95e96b:/usr/src/myapp/docker_ls.txt .
+ls
+docker cp c5549331ae5ba1b499c014335e040cb6ac4fc4d7341ff7b1efea8358bb95e96b:/usr/src/myapp/ ./volume/
+docker cp c5549331ae5ba1b499c014335e040cb6ac4fc4d7341ff7b1efea8358bb95e96b:/usr/src/myapp/docker_ls.txt ./volume/
+docker ps
+ls
+docker-compose up --build
+docker cp $wfu_cs/disassembly:/usr/src/myapp/docker_ls.txt ~/new_stuff/new_pipeline/volume/
+docker cp wfu_cs/disassembly:/usr/src/myapp/docker_ls.txt ~/new_stuff/new_pipeline/volume/
+docker run wfu_cs/disassembly -it
+docker-compose up --build
+docker ps
+docker run disassembly -it
+docker run -it disassembly
+ls
+./snooper2 > ls.txt
+ls
+rm ls.txt 
+./snooper2 ls > ls.txt
+docker-compose up --build
+ls
+docker-compose up --build
+ls
+rm ls*
+ls
+./pappy.py -c "cat" -a ./arguments.txt
+ls
+docker-compose up --build
+ls
+cp ~/thesis_and_publication_1/tools/pappy.py .
+ls
+ls .
+ls
+ls ./../
+ls
+./pappy.py -c "ls" -a ./arguments.txt 
+ls
+history | grep -it
+history | grep '-it'
+history | grep 'it'
+docker-compose up --build
+docker run disassembly -it
+docker run -it disassembly
+docker run -it disassembly bash
+ls
+cd ..
+ls
+mkdir initial_experimentation 
+cd new_pipeline/
+ls
+cp * ./../initial_experimentation/
+cd volume/
+ls
+cd ..
+ls
+rm cat*
+rm snooper2 
+ls
+rm docker
+rm docker_generated_cat 
+ls
+rm arguments.txt 
+ls
+rm pappy.py 
+rm -rf volume/
+ls
+ls -al
+docker-compose up --build
+'
+
+
+
+
+docker-compose up --build
+docker build -t disassembly --build-arg BASE=ubuntu:18.04
+docker build -t disassembly --build~~~-arg BASE=ubuntu:18.04 .
+docker build -t disassembly --build --arg BASE=ubuntu:18.04 .
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+ls
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker build -t disassembly --build-arg BASE=python:3.7
+docker build -t disassembly --build-arg BASE=python:3.7 .
+ls
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker build -t disassembly --build-arg BASE=ubuntu:18.03 .
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker run -it disassembly bash
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker run -it disassembly bash
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker run -it disassembly bash
+docker build -t disassembly --build-arg BASE=ubuntu:18.04 .
+docker-compose up --build
+docker run -it disassembly bash
+docker-compose up --build
+docker run -it disassembly bash
+docker-compose up --build
+docker run -it disassembly bash
+ls
+cd ..
+ls
+cp new_pipeline/ ./legacy/
+cp -r new_pipeline/ ./legacy/
+ls
+cd legacy/
+ls
+ls -al
+cd ..
+ls
+cd legacy/
+ls
+pwd
+docker run -it disassembly bash
+ls
+docker-compose up --build
+docker run -it disassembly bash
+docker-compose up --build
+docker run -it disassembly bash
+ls
+cd ..
+ls
+cd ..
+ls
+cd new_stuff/
+ls
+cd tar_stuff/
+ls
+cd
+cd new_stuff/
+ls
+cd new_pipeline/
+ls
+docker-compose up --build
+docker run -it disassembly bash
+ls
+cd ..
+ls
+cd tar_stuff/
+ls
+cat snooper2.c 
+ls
+cd new_stuff/
+ls
+mkdir ctypes_exp
+cd ctypes_exp/
+ls
+cc -fPIC -shared -o libsum.so sum.c
+ls
+python sum.py 
+ls
+python sum.py 
+ls
+cd ..
+ls
+cd new_stuff/
+ls
+mkdir joiny
+cd joiny/
+ls
+cd ..
+l
+ls
+cd ..
+l
+ls
+cd juarkl15/
+ls
+sudo cd juarkl15/
+ls
+sudo cd juarkl15/
+ls
+cd ..
+ls
+cd home/
+ls
+mkdir temp
+cd bhana13/
+ls
+cd thesis_and_publication_1/
+ls
+cd ICNSS20/
+ls
+cd New_Results/
+ls
+cd Static/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd test/
+ls
+cat Reducy.py 
+ls
+cd ..
+ls
+cd publication_exp/
+ls
+cd static_all/
+ls
+cd ..
+ls
+cat create_profile.py 
+ls
+cd joiny/
+ls
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 10
+chmod +x papa.py 
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 10
+cp ~/thesis_and_publication_1/Thesis_Final/intel4.map .
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 10
+cp ~/thesis_and_publication_1/Thesis_Final/lsfilepaths.txt .
+mv lsfilepaths.txt file_args.txt
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 10
+ls
+mkdir map4seq10
+cp ~/thesis_and_publication_1/Thesis_Final/intel3.map .
+cp ~/thesis_and_publication_1/Thesis_Final/intel20.map .
+ls
+mv ls_* map4seq10/
+ls
+./papa.py -c "ls" -a file_args.txt 
+ls
+mkdir count_prf
+mv ls_.dev.* count_prf/
+ls
+cp ~/thesis_and_publication_1/Thesis_Final/files.txt .
+ls
+./papa.py -c "cat" -a file.txt
+./papa.py -c "cat" -a files.txt
+mv cat_* ./
+mv cat_* ./count_prf/
+./papa.py -c "cat" -a files.txt -m intel4.map -s 10
+rm cat_*
+ls
+mkdir results
+python joiny.py 
+pip install pathlin
+pip install pathlib
+yum install pathlib
+pwd
+python joiny.py 
+./papa.py -c "cat" -a files.txt -m intel4.map -s 10
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 10
+./papa.py -c "ls" -a file_args.txt -m intel4.map -s 100
+ls
+rm cat_*
+rm ls*
+ls
+touch Pipfile
+pipenv shell
+pipenv --version
+ls
+sudo apt install pipenv
+pipenv --version
+virtualenvironment --version
+pipenv 
+env
+ls
+touch Dockerfile
+touch docker-compose.yml
+ls
+cd results/
+ls
+cd ..
+ls
+mkdir count_prf
+mkdir seq_prf
+ls
+docker-compose up --build
+docker run -it joiny bash
+ls
+cd
+ls
+cd ..
+ls
+cd juarkl15/
+ls
+cd
+ls
+cd new_stuff/
+ls
+cd joiny/
+ls
+./fixed_cluster_profiles.py 
+pip3 install numpy
+./fixed_cluster_profiles.py 
+pip3 install pandas
+./fixed_cluster_profiles.py 
+pip3 install sklearn
+./fixed_cluster_profiles.py 
+./experiments.sh 
+cd results/
+ls
+./fixed_cluster_profiles.py -r "ls*.xprf" "cat*.xprf"
+cd ..
+./experiments.sh 
+cd results/
+./fixed_cluster_profiles.py -r "ls*.xprf" "cat*.xprf"
+cd ..
+ls
+./experiments.sh 
+cd results/
+rm *
+y
+ls
+rm cat__no_lib_19.xprf 
+cd ..
+ls
+./experiments.sh 
+rm -rf results/
+mkdir results
+./experiments.sh 
+ls
+./experiments.sh 
+'
+
+
+
+
+./experiments.sh 
+ls
+./experiments.sh 
+ls
+rm *.mins
+ls
+./experiments.sh 
+ls
+ls *.mprf
+cd count_prf/
+ls
+rm *
+cd ..
+mv *.mins count_prf/
+cd
+ls
+cd ..
+l
+s
+ls
+cd juarkl15/
+ls
+cd New_Results/
+ls
+cp papa.py ./../../bhana13/new_stuff/joiny/papa2.py 
+cd
+cd new_stuff/joiny/
+ls
+./experiments.sh 
+ls
+rm *.mins
+rm *.ins
+rm *.out
+ls
+cd count_prf/
+ls
+rm *
+cd ..
+ls
+cd seq_prf/
+ls
+rm *
+cd ..
+ls
+cd results/
+ls
+cd ..
+ls
+./experiments.sh 
+ls
+docker-compose up --build
+ls
+rm *.mins
+docker-compose up --build
+cp fixed_cluster_profiles.py ./results/
+cd results/
+./fixed_cluster_profiles.py -r "ls*.xprf" "stat*.xprf" "head*.xprf" "tail*.xprf" "sha256sum*.xprf" "md5sum*.xprf"
+ls
+cd
+ls
+java --version
+javac --version
+ls
+cp ~/../fulp/New_Generation/Tools/classify_profiles.py .
+ls
+cp /home/fulp/New_Generation/Tools/dbscan_cluster_profiles.py .
+ls
+df
+df ~/../fulp/
+./experiments.sh 
+pipenv shell
+cd
+ls
+cd ..
+l
+s
+l
+sl
+ls
+sl
+cd fulp/
+ls
+cd ..
+ls
+cd juarkl15/
+ls
+cd New_Results/
+ls
+cd ..
+ls
+find ~ -name dbscan
+find ~ -name cluster_profiles.py
+find ~ -name Pipfile
+find . -name Pipfile
+ls
+ls -al
+ls
+cd New_Results/
+ls
+cd
+ls
+cd new_stuff/
+ls
+cd joiny/
+ls
+cd results/
+python dbscan_cluster_profiles.py 
+python3 dbscan_cluster_profiles.py 
+python3 dbscan_cluster_profiles.py -r "ls*.xprf" "df*.xprf" "head*.xprf" "tail*.xprf" "sha256sum*.xprf" "md5sum*.xprf"
+ls
+cd ..
+ls
+./experiments.sh 
+cp experiments.sh setup.sh
+cp experiments.sh run_exp.sh
+ls
+./setup.sh 
+./sequence2.py -k 4 -r "*.ins" -m intel4.map
+./run_exp.sh 
+./experiments.sh 
+cd results/
+ls
+python3 dbscan_cluster_profiles.py -r "ls*.xprf" "df*.xprf" "head*.xprf" "tail*.xprf" "sha256sum*.xprf" "md5sum*.xprf"
+python3 dbscan_cluster_profiles.py -r "ls*.xprf" "tail*.xprf"
+python3 dbscan_cluster_profiles.py -r "ls*.xprf" "df*.xprf" "head*.xprf" "tail*.xprf"
+ls
+cd ..
+ls
+cd new_pipeline/
+ls
+cd ..
+ls
+cd new_pipeline/
+ls
+cd ..
+ls
+mkdir new_pipeline_snoop3
+rm -rf new_pipeline_snoop3/
+mkdir snoop3_pipeline
+cd snoop3_pipeline/
+ls
+mv ls_prefix.txt simple_ls_prefix.txt 
+cp ~/../fulp/New_Generation/Snooper/snooper3 .
+ls
+docker-compose up --build
+ls
+cd volume_exp_profiles/
+docker-compose up --build
+ls
+cd ..
+ls
+docker-compose up --build
+ls
+cd volume_exp_profiles/
+ls
+cd ..
+l
+docker-compose up --build
+ls
+cd volume_exp_profiles/
+ls
+cd ..
+ls
+cd snoop3_pipeline/
+ls
+docker-compose up --build
+pwd
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls.txt .
+docker-compose up --build
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls.txt .
+ls
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls_prefix.txt .
+docker-compose up --build
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls_prefix.txt .
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls.txt .
+ls
+docker-compose up --build
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls.txt .
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls_prefix.txt .
+diff ls.txt simple_ls.txt 
+docker-compose up --build
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls_prefix.txt ./21_ls_prefix.txt 
+docker cp snoop3_pipeline_apt_get_experiements_1:/usr/src/myapp/ls_prefix.txt ./21_ls.txt
+ls
+docker-compose up --build
+ls
+ls ~/../fulp/New_Generation/
+ls ~/../fulp/New_Generation/Snooper/
+cd
+cd ..
+cd juarkl15/
+ls
+ls -al
+ls
+ls -al
+cd IND/
+ls
+cd ..
+ls
+find find / -name papa.py
+ls 
+cd Process/
+ls
+cd Testing/
+ls
+cd Test/
+ls
+cd ../../..
+ls
+cd
+ls
+cd new_stuff/
+ls
+cd joiny/
+ls
+cp papa2.py ~/new_stuff/snoop3_pipeline/
+ls
+cd ..
+ls
+cd snoop3_pipeline/
+ls
+cp ~/new_stuff/joiny/file_args.txt .
+cp ~/new_stuff/joiny/intel20.map .
+docker-compose up --build
+ls
+docker-compose up --build
+touch experiments.sh
+docker-compose up --build
+ls -al
+chmod +x experiments.sh 
+ls -al
+docker-compose up --build
+ls
+docker-compose up --build
+ls
+rm 18*
+rm 21*
+ls
+cp ./../joiny/mapa.py .
+docker-compose up --build
+cp ./../joiny/samply.py .
+docker-compose up --build
+ls
+cdvol
+cd volume_exp_profiles/
+ls
+cd ..
+docker-compose up --build
+ls volume_exp_profiles/
+ls
+pwd
+docker-compose up --build
+ls
+cd volume_exp_profiles/
+ls
+cd ..
+mkdir volume_exp_profiles_latest
+cp volume_exp_profiles/* volume_exp_profiles_latest/
+mv volume_exp_profiles/* volume_exp_profiles_latest/
+ls
+cd volume_exp_profiles
+ls
+rm *
+ls
+sudo rm *
+ls
+cd ..
+ls
+docker-compose up --build
+ls
+docker-compose up --build
+ls
+docker-compose up --build
+pwd
+passwd
+cd ..
+ls
+cd ..
+ls
+cd new_stuff/
+ls
+cd new_pipeline/
+ls
+cd ..
+ls
+cd joiny/
+ls
+cd ../..
+ls
+cd ..
+ls
+cd bhana13/
+ls
+cd thesis_and_publication_1/
+ls
+cd publication_exp/
+ls
+cd dynamic/
+ls
+cd tools/
+ls
+cd
+ls
+cd new_stuff/
+ls
+cd snoop3_pipeline/
+ls
+cd ..
+l
+sls
+ls
+cd legacy/
+ls
+cd ..
+ls
+cd tar_stuff/
+ls
+cd ..
+ls
+cd ..
+ld
+ls
+cd thesis_and_publication_1/
+ls
+cd Snooper/
+ls
+cd ..
+ls
+cd tools/
+ls
+cd ..
+ls
+cd ..
+ls
+cd new_stuff/
+ls
+cd ..
+ls
+cd thesis_and_publication_1/
+ls -al
+cd tools/
+ls
+cd ..
+ls
+cd juarkl15/
+ls
+cd New_Results/
+ls
+cd ..
+ls
+find . p
+ls
+find . -name papa.py
+ls
+su find . -name papa.py
+cd Process/
+ls
+cd ..
+ls
+cd New_Results/
+ls
+ls pap*
+cp papa.py ~/
+cd
+ls
+cd new_stuff/
+ls
+cd ..
+ls
+cd new_stuff/
+mkdir TFIDF_exp
+cp ~/papa.py ./TFIDF_exp/
+ls
+cd TFIDF_exp/
+ls
+./papa.py 
+cd
+cd ./..
+ls
+cd juarkl15/
+ls
+cd Process/
+ls
+cd ..
+ls
+cd New_Results/
+ls
+ls map*
+cp mapa.py ~/new_stuff/TFIDF_exp/
+cd
+cd new_stuff/TFIDF_exp/
+ls
+./papa.py 
+cp ~/../juarkl15/New_Results/constant.py .
+./papa.py 
+cp ~/../juarkl15/New_Results/snooper3 .
+./papa.py 
+ls
+cd __pycache__/
+ls
+cd ..
+rm -rf __pycache__/
+ls
+rm mapa.py 
+rm constant.py 
+ls
+./papa.py 
+ls ~/../juarkl15/New_Results/*.txt
+cp ~/../juarkl15/New_Results/file_args* .
+ls
+cd ..
+ls
+cd snoop3_pipeline/
+ls
+cat file_args.txt 
+cp file_args.txt ./../TFIDF_exp/
+ls
+cp files.txt ~/new_stuff/TFIDF_exp/
+cat /dev/block
+ls /dev/block
+./papa.py -c "cat" -a file_args.txt 
+ls
+rm *.ins
+rm *.out
+ls
+./tfidfy.py
+chmod +x tfidfy.py 
+./tfidfy.py
+rm cat_.dev.*
+ls
+./papa.py -c "cat" -a files.txt
+./papa.py -c "ls" -a file_args.txt 
+rm *.ins
+rm *.out
+ls
+./tfidfy.py 
+cd 
+cd ..
+cd juarkl15/
+ls
+cd New_Results/
+ls
+ls class*
+cp classify_profiles.py ~/new_stuff/TFIDF_exp/
+./tfidfy.py
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf"
+./tfidfy.py
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf"
+./tfidfy.py
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf"
+ls
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf"
+./papa.py -c "head" -a files.txt
+./tfidfy.py
+./classify_profiles.py -r "head*.tfidf" "cat*.tfidf"
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf"
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf"
+./papa.py -c "dir" -a file_args.txt 
+./tfidfy.py
+rm *.out
+rm *.ins
+./tfidfy.py
+ls *.tfidf | count
+ls *.tfidf | sum
+ls *.tfidf | wc -l
+rm *.tfidf
+ls *.prf
+ls *.prf | wc -l
+./tfidfy.py
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf" "dir*.tfidf"
+./papa.py -c "stat" -a file_args.txt 
+rm *.tfidf
+rm *.out
+rm *.ins
+ls *.prf | wc -l
+./tfidfy.py 
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf" "dir*.tfidf" "stat*.tfidf"
+rm *.tfidf
+./papa.py -c "df" -a file_args.txt 
+rm *.ins
+rm *.out
+./tfidfy.py 
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf" "dir*.tfidf" "stat*.tfidf" "df*.tfidf"
+rm *.tfidf
+./papa.py -c "sha256sum" -a files.txt
+rm *.tfidf
+ls *.prf | wc -l
+./tfidfy.py 
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf" "dir*.tfidf" "stat*.tfidf" "df*.tfidf" "sha256*.tfidf"
+ls
+rm *.tfidf
+rm *.prf
+ls
+rm *.ins
+rm *.out
+ls
+./papa.py -c "df" -a file_args.txt 
+./papa.py -c "ls" -a file_args.txt 
+./papa.py -c "stat" -a file_args.txt 
+./papa.py -c "echo" -a file_args.txt 
+./papa.py -c "dir" -a file_args.txt 
+./papa.py -c "du" -a file_args.txt 
+./papa.py -c "head" -a files.txt
+./papa.py -c "tail" -a files.txt
+./papa.py -c lessl" -a files.txt
+./papa.py -c "less" -a files.txt
+./papa.py -c "cat" -a files.txt
+./papa.py -c "sha256sum" -a files.txt
+./papa.py -c "md5sum" -a files.txt
+./papa.py -c "cksum" -a files.txt
+./papa.py -c "b2sum" -a files.txt
+rm *.ins
+rm *.out
+./tfidfy.py 
+./classify_profiles.py -r "ls*.tfidf" "cat*.tfidf" "head*.tfidf" "dir*.tfidf" "stat*.tfidf" "df*.tfidf" "sha256*.tfidf"
+./classify_profiles.py -r "ls*.tfidf" "stat*.tfidf" "echo*.tfidf" "dir*.tfidf" "df*.tfidf" "du*.tfidf" "head*.tfidf" "tail*.tfidf" "less*.tfidf" "cat*.tfidf" "sha256*.tfidf" "md5sum*.tfidf" "cksum*.tfidf" "b2sum*.tfidf"
+pwd
+./classify_profiles.py -r "ls*.tfidf" "stat*.tfidf" "echo*.tfidf" "dir*.tfidf" "df*.tfidf" "du*.tfidf" "head*.tfidf" "tail*.tfidf" "less*.tfidf" "cat*.tfidf" "sha256*.tfidf" "md5sum*.tfidf" "cksum*.tfidf" "b2sum*.tfidf"
+./classify_profiles.py -r "head*.tfidf" "cat*.tfidf" "sha256*.tfidf" "md5sum*.tfidf"

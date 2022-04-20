@@ -1,0 +1,363 @@
+Experiments (2/6/2022)
+
+ - - - - - - - -
+| four_choice.c | - with and without file read and write features (see below)
+ - - - - - - - -
+
+Exp. #1:
+- 65 snooper3 experiments
+- 0-64 as single line inputs 
+- clustered perfectly (silhouette doesn't reflect so)
+- this is running WITHthe else in the if statements
+
+	- - if statements for this exper - -
+	if 0: res = 3000*32*sqrt(intValue);
+	if 1: res = intValue;
+	if 2: res = forkIt();
+	if 3: for (i; i < intValue*3; i++) res+= (i*i); 
+
+***With else statements***
+[65 rows x 30 columns]
+(n:2 s:0.559940), (n:3 s:0.827799), (n:4 s:0.838422), 
+GMM best number of clusters (silhouette) 4 (0.8384227)
+best clusters (n = 4) results 
+GMM 4 cluster ARI: 1.0000007
+cluster 0:[./Outputs/a.out_0, ./Outputs/a.out_12, ./Outputs/a.out_16, ./Outputs/a.out_20, ./Outputs/a.out_24, ./Outputs/a.out_28, ./Outputs/a.out_32, ./Outputs/a.out_36, ./Outputs/a.out_40, ./Outputs/a.out_44, ./Outputs/a.out_48, ./Outputs/a.out_4, ./Outputs/a.out_52, ./Outputs/a.out_56, ./Outputs/a.out_60, ./Outputs/a.out_64, ./Outputs/a.out_8] 
+
+cluster 1:[./Outputs/a.out_13, ./Outputs/a.out_17, ./Outputs/a.out_1, ./Outputs/a.out_21, ./Outputs/a.out_25, ./Outputs/a.out_29, ./Outputs/a.out_33, ./Outputs/a.out_37, ./Outputs/a.out_41, ./Outputs/a.out_45, ./Outputs/a.out_49, ./Outputs/a.out_53, ./Outputs/a.out_57, ./Outputs/a.out_5, ./Outputs/a.out_61, ./Outputs/a.out_9] 
+
+cluster 2:[./Outputs/a.out_10, ./Outputs/a.out_14, ./Outputs/a.out_18, ./Outputs/a.out_22, ./Outputs/a.out_26, ./Outputs/a.out_2, ./Outputs/a.out_30, ./Outputs/a.out_34, ./Outputs/a.out_38, ./Outputs/a.out_42, ./Outputs/a.out_46, ./Outputs/a.out_50, ./Outputs/a.out_54, ./Outputs/a.out_58, ./Outputs/a.out_62, ./Outputs/a.out_6] 
+
+cluster 3:[./Outputs/a.out_11, ./Outputs/a.out_15, ./Outputs/a.out_19, ./Outputs/a.out_23, ./Outputs/a.out_27, ./Outputs/a.out_31, ./Outputs/a.out_35, ./Outputs/a.out_39, ./Outputs/a.out_3, ./Outputs/a.out_43, ./Outputs/a.out_47, ./Outputs/a.out_51, ./Outputs/a.out_55, ./Outputs/a.out_59, ./Outputs/a.out_63, ./Outputs/a.out_7] 
+. . . . . . . . .
+
+
+
+
+Exp. #2:
+- 65 snooper3 experiments
+- 0-64 as single line inputs 
+- clustered perfectly (silhouette doesn't reflect so)
+- this is running without the else in the if statements
+
+	- - if statements for this exper - -
+	if 0: res = 3000*32*sqrt(intValue);
+	if 1: res = intValue;
+	if 2: res = forkIt();
+	if 3: for (i; i < intValue*3; i++) res+= (i*i); 
+
+***Without else statements***
+[65 rows x 30 columns]
+(n:2 s:0.565360), (n:3 s:0.833720), (n:4 s:0.788664), 
+GMM best number of clusters (silhouette) 3 (0.8337207)
+best clusters (n = 3) results 
+GMM 3 cluster ARI: 0.7121517
+cluster 0:[./Outputs/a.out_0, ./Outputs/a.out_12, ./Outputs/a.out_16, ./Outputs/a.out_20, ./Outputs/a.out_24, ./Outputs/a.out_28, ./Outputs/a.out_32, ./Outputs/a.out_36, ./Outputs/a.out_40, ./Outputs/a.out_44, ./Outputs/a.out_48, ./Outputs/a.out_4, ./Outputs/a.out_52, ./Outputs/a.out_56, ./Outputs/a.out_60, ./Outputs/a.out_64, ./Outputs/a.out_8] 
+
+cluster 1:[./Outputs/a.out_11, ./Outputs/a.out_13, ./Outputs/a.out_15, ./Outputs/a.out_17, ./Outputs/a.out_19, ./Outputs/a.out_1, ./Outputs/a.out_21, ./Outputs/a.out_23, ./Outputs/a.out_25, ./Outputs/a.out_27, ./Outputs/a.out_29, ./Outputs/a.out_31, ./Outputs/a.out_33, ./Outputs/a.out_35, ./Outputs/a.out_37, ./Outputs/a.out_39, ./Outputs/a.out_3, ./Outputs/a.out_41, ./Outputs/a.out_43, ./Outputs/a.out_45, ./Outputs/a.out_47, ./Outputs/a.out_49, ./Outputs/a.out_51, ./Outputs/a.out_53, ./Outputs/a.out_55, ./Outputs/a.out_57, ./Outputs/a.out_59, ./Outputs/a.out_5, ./Outputs/a.out_61, ./Outputs/a.out_63, ./Outputs/a.out_7, ./Outputs/a.out_9] 
+
+cluster 2:[./Outputs/a.out_10, ./Outputs/a.out_14, ./Outputs/a.out_18, ./Outputs/a.out_22, ./Outputs/a.out_26, ./Outputs/a.out_2, ./Outputs/a.out_30, ./Outputs/a.out_34, ./Outputs/a.out_38, ./Outputs/a.out_42, ./Outputs/a.out_46, ./Outputs/a.out_50, ./Outputs/a.out_54, ./Outputs/a.out_58, ./Outputs/a.out_62, ./Outputs/a.out_6] 
+. . . . . . . . . 
+
+
+
+
+Exp. #3 (comparing machine code)
+- running with four_choice.c with argument 1 WITHOUT FILE WRITER
+
+	- - if statements for this exper - -
+	if 0: res = 3000*32*sqrt(intValue);
+	if 1: res = intValue;
+	if 2: res = forkIt();
+	if 3: for (i; i < intValue*3; i++) res+= (i*i); 
+
+- - with else - - 
+00005560336ef026 ff25e42f0000         jmp qword [rip+0x2fe4]
+00005560336ef202 837df400             cmp dword [rbp-0xc], 0x0	<-- compare to 0 (false)
+00005560336ef206 7523                 jnz 0x25
+00005560336ef22b 837df401             cmp dword [rbp-0xc], 0x1 	<-- compare to 1 (true)
+00005560336ef22f 7508                 jnz 0xa
+00005560336ef231 8b45f0               mov eax, [rbp-0x10]
+00005560336ef234 8945f8               mov [rbp-0x8], eax
+00005560336ef237 eb45                 jmp 0x47			<-- else forces break (program counter jump?)
+00005560336ef27e 8b45f8               mov eax, [rbp-0x8]
+
+- - without else - - 
+000055ff4285d026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000055ff4285d202 837df400             cmp dword [rbp-0xc], 0x0	<-- compare to 0 (false)
+000055ff4285d206 7521                 jnz 0x23
+000055ff4285d229 837df401             cmp dword [rbp-0xc], 0x1	<-- compare to 1 (true)
+000055ff4285d22d 7506                 jnz 0x8
+000055ff4285d22f 8b45f0               mov eax, [rbp-0x10]
+000055ff4285d232 8945f8               mov [rbp-0x8], eax
+000055ff4285d235 837df402             cmp dword [rbp-0xc], 0x2 	<-- compare to 2 (false)
+000055ff4285d239 7519                 jnz 0x1b
+000055ff4285d254 837df403             cmp dword [rbp-0xc], 0x3 	<-- compare to 3 (false)
+000055ff4285d258 751e                 jnz 0x20
+000055ff4285d278 8b45f8               mov eax, [rbp-0x8]
+. . . . . . . . .
+
+
+
+
+Exp. #4 (let's get more involved)
+- running with four_choice.c WITH FILE WRITER
+
+	- - if statements for this exper - -
+	if 0: res = 3000*32*sqrt(intValue);
+	if 1: writeToFile(intVal); res=0;
+	if 2: res = forkIt();
+	if 3: for (i; i < intValue*3; i++) res+= (i*i); 
+
+* * * With else statements * * *
+[65 rows x 30 columns]
+(n:2 s:0.579782), (n:3 s:0.726945), (n:4 s:0.910981), 
+GMM best number of clusters (silhouette) 4 (0.9109817)
+best clusters (n = 4) results 
+GMM 4 cluster ARI: 1.0000007
+cluster 0:[./Outputs/a.out_0, ./Outputs/a.out_12, ./Outputs/a.out_16, ./Outputs/a.out_20, ./Outputs/a.out_24, ./Outputs/a.out_28, ./Outputs/a.out_32, ./Outputs/a.out_36, ./Outputs/a.out_40, ./Outputs/a.out_44, ./Outputs/a.out_48, ./Outputs/a.out_4, ./Outputs/a.out_52, ./Outputs/a.out_56, ./Outputs/a.out_60, ./Outputs/a.out_64, ./Outputs/a.out_8] 
+
+cluster 1:[./Outputs/a.out_13, ./Outputs/a.out_17, ./Outputs/a.out_1, ./Outputs/a.out_21, ./Outputs/a.out_25, ./Outputs/a.out_29, ./Outputs/a.out_33, ./Outputs/a.out_37, ./Outputs/a.out_41, ./Outputs/a.out_45, ./Outputs/a.out_49, ./Outputs/a.out_53, ./Outputs/a.out_57, ./Outputs/a.out_5, ./Outputs/a.out_61, ./Outputs/a.out_9] 
+
+cluster 2:[./Outputs/a.out_11, ./Outputs/a.out_15, ./Outputs/a.out_19, ./Outputs/a.out_23, ./Outputs/a.out_27, ./Outputs/a.out_31, ./Outputs/a.out_35, ./Outputs/a.out_39, ./Outputs/a.out_3, ./Outputs/a.out_43, ./Outputs/a.out_47, ./Outputs/a.out_51, ./Outputs/a.out_55, ./Outputs/a.out_59, ./Outputs/a.out_63, ./Outputs/a.out_7] 
+
+cluster 3:[./Outputs/a.out_10, ./Outputs/a.out_14, ./Outputs/a.out_18, ./Outputs/a.out_22, ./Outputs/a.out_26, ./Outputs/a.out_2, ./Outputs/a.out_30, ./Outputs/a.out_34, ./Outputs/a.out_38, ./Outputs/a.out_42, ./Outputs/a.out_46, ./Outputs/a.out_50, ./Outputs/a.out_54, ./Outputs/a.out_58, ./Outputs/a.out_62, ./Outputs/a.out_6] 
+
+
+* * * Without else statements * * *
+[65 rows x 30 columns]
+(n:2 s:0.554800), (n:3 s:0.743254), (n:4 s:0.914833), 
+GMM best number of clusters (silhouette) 4 (0.9148337)
+best clusters (n = 4) results 
+GMM 4 cluster ARI: 1.0000007
+cluster 0:[./Outputs/a.out_0, ./Outputs/a.out_12, ./Outputs/a.out_16, ./Outputs/a.out_20, ./Outputs/a.out_24, ./Outputs/a.out_28, ./Outputs/a.out_32, ./Outputs/a.out_36, ./Outputs/a.out_40, ./Outputs/a.out_44, ./Outputs/a.out_48, ./Outputs/a.out_4, ./Outputs/a.out_52, ./Outputs/a.out_56, ./Outputs/a.out_60, ./Outputs/a.out_64, ./Outputs/a.out_8] 
+
+cluster 1:[./Outputs/a.out_13, ./Outputs/a.out_17, ./Outputs/a.out_1, ./Outputs/a.out_21, ./Outputs/a.out_25, ./Outputs/a.out_29, ./Outputs/a.out_33, ./Outputs/a.out_37, ./Outputs/a.out_41, ./Outputs/a.out_45, ./Outputs/a.out_49, ./Outputs/a.out_53, ./Outputs/a.out_57, ./Outputs/a.out_5, ./Outputs/a.out_61, ./Outputs/a.out_9] 
+
+cluster 2:[./Outputs/a.out_11, ./Outputs/a.out_15, ./Outputs/a.out_19, ./Outputs/a.out_23, ./Outputs/a.out_27, ./Outputs/a.out_31, ./Outputs/a.out_35, ./Outputs/a.out_39, ./Outputs/a.out_3, ./Outputs/a.out_43, ./Outputs/a.out_47, ./Outputs/a.out_51, ./Outputs/a.out_55, ./Outputs/a.out_59, ./Outputs/a.out_63, ./Outputs/a.out_7] 
+
+cluster 3:[./Outputs/a.out_10, ./Outputs/a.out_14, ./Outputs/a.out_18, ./Outputs/a.out_22, ./Outputs/a.out_26, ./Outputs/a.out_2, ./Outputs/a.out_30, ./Outputs/a.out_34, ./Outputs/a.out_38, ./Outputs/a.out_42, ./Outputs/a.out_46, ./Outputs/a.out_50, ./Outputs/a.out_54, ./Outputs/a.out_58, ./Outputs/a.out_62, ./Outputs/a.out_6] 
+
+- - - without else (arg = 1) - - -
+000055df37faa026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000055df37faa232 837df400             cmp dword [rbp-0xc], 0x0	<-- compare to 0 (false)
+000055df37faa236 7521                 jnz 0x23
+000055df37faa259 837df401             cmp dword [rbp-0xc], 0x1	<-- compare to 1 (true)
+000055df37faa25d 756d                 jnz 0x6f
+000055df37faa25f 488d35ab000000       lea rsi, [rip+0xab]
+000055df37faa266 488d3dab000000       lea rdi, [rip+0xab]
+000055df37faa26d e80efeff00           call 0xfffe13
+000055df37faa080 ff25ba2f0000         jmp qword [rip+0x2fba]
+000055df37faa086 6805000000           push 0x5
+000055df37faa08b e990ffff00           jmp 0xffff95
+000055df37faa020 ff35e22f0000         push qword [rip+0x2fe2]
+000055df37faa026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000055df37faa272 488945e8             mov [rbp-0x18], rax
+000055df37faa276 48837de800           cmp qword [rbp-0x18], 0x0
+000055df37faa27b 751b                 jnz 0x1d
+000055df37faa298 8b45f0               mov eax, [rbp-0x10]
+000055df37faa29b 8945e4               mov [rbp-0x1c], eax
+000055df37faa29e 8b55e4               mov edx, [rbp-0x1c]
+000055df37faa2a1 488b45e8             mov rax, [rbp-0x18]
+000055df37faa2a5 488d359c000000       lea rsi, [rip+0x9c]
+000055df37faa2ac 4889c7               mov rdi, rax
+000055df37faa2af b800000000           mov eax, 0x0
+000055df37faa2b4 e8a7fdff00           call 0xfffdac
+000055df37faa060 ff25ca2f0000         jmp qword [rip+0x2fca]
+000055df37faa066 6803000000           push 0x3
+000055df37faa06b e9b0ffff00           jmp 0xffffb5
+000055df37faa020 ff35e22f0000         push qword [rip+0x2fe2]
+000055df37faa026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000055df37faa2b9 488b45e8             mov rax, [rbp-0x18]
+000055df37faa2bd 4889c7               mov rdi, rax
+000055df37faa2c0 e87bfdff00           call 0xfffd80
+000055df37faa040 ff25da2f0000         jmp qword [rip+0x2fda]
+000055df37faa046 6801000000           push 0x1
+000055df37faa04b e9d0ffff00           jmp 0xffffd5
+000055df37faa020 ff35e22f0000         push qword [rip+0x2fe2]
+000055df37faa026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000055df37faa2c5 c745f800000000       mov dword [rbp-0x8], 0x0
+000055df37faa2cc 837df402             cmp dword [rbp-0xc], 0x2	<-- compare to 2 (false)
+000055df37faa2d0 7519                 jnz 0x1b
+000055df37faa2eb 837df403             cmp dword [rbp-0xc], 0x3	<-- compare to 3 (false)
+000055df37faa2ef 751e                 jnz 0x20
+000055df37faa30f 8b45f8               mov eax, [rbp-0x8]
+
+- - - with else (arg = 1) - - -
+000056516f52a026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056516f52a232 837df400             cmp dword [rbp-0xc], 0x0	<-- compare to 0 (false)
+000056516f52a236 7526                 jnz 0x28
+000056516f52a25e 837df401             cmp dword [rbp-0xc], 0x1	<-- compare to 1 (true)
+000056516f52a262 756f                 jnz 0x71
+000056516f52a264 488d35a6000000       lea rsi, [rip+0xa6]
+000056516f52a26b 488d3da6000000       lea rdi, [rip+0xa6]
+000056516f52a272 e809feff00           call 0xfffe0e
+000056516f52a080 ff25ba2f0000         jmp qword [rip+0x2fba]
+000056516f52a086 6805000000           push 0x5
+000056516f52a08b e990ffff00           jmp 0xffff95
+000056516f52a020 ff35e22f0000         push qword [rip+0x2fe2]
+000056516f52a026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056516f52a277 488945e8             mov [rbp-0x18], rax
+000056516f52a27b 48837de800           cmp qword [rbp-0x18], 0x0
+000056516f52a280 751b                 jnz 0x1d
+000056516f52a29d 8b45f0               mov eax, [rbp-0x10]
+000056516f52a2a0 8945e4               mov [rbp-0x1c], eax
+000056516f52a2a3 8b55e4               mov edx, [rbp-0x1c]
+000056516f52a2a6 488b45e8             mov rax, [rbp-0x18]
+000056516f52a2aa 488d3597000000       lea rsi, [rip+0x97]
+000056516f52a2b1 4889c7               mov rdi, rax
+000056516f52a2b4 b800000000           mov eax, 0x0
+000056516f52a2b9 e8a2fdff00           call 0xfffda7
+000056516f52a060 ff25ca2f0000         jmp qword [rip+0x2fca]
+000056516f52a066 6803000000           push 0x3
+000056516f52a06b e9b0ffff00           jmp 0xffffb5
+000056516f52a020 ff35e22f0000         push qword [rip+0x2fe2]
+000056516f52a026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056516f52a2be 488b45e8             mov rax, [rbp-0x18]
+000056516f52a2c2 4889c7               mov rdi, rax
+000056516f52a2c5 e876fdff00           call 0xfffd7b
+000056516f52a040 ff25da2f0000         jmp qword [rip+0x2fda]
+000056516f52a046 6801000000           push 0x1
+000056516f52a04b e9d0ffff00           jmp 0xffffd5
+000056516f52a020 ff35e22f0000         push qword [rip+0x2fe2]
+000056516f52a026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056516f52a2ca c745f800000000       mov dword [rbp-0x8], 0x0
+000056516f52a2d1 eb45                 jmp 0x47			<-- else forces break (program counter jump?)
+000056516f52a318 8b45f8               mov eax, [rbp-0x8]
+
+. . . . . . . . .
+
+
+
+Exp. #5 (adding the read) ((this is where shit hits the fan))
+- running with four_choice.c WITH FILE READER AND WRITER
+
+	- - if statements for this exper - -
+	if 0: res = readIntFromFile();
+	if 1: writeToFile(intVal); res=0;
+	if 2: res = forkIt();
+	if 3: for (i; i < intValue*3; i++) res+= (i*i); 
+
+* * * With else statements * * *
+[65 rows x 25 columns]
+(n:2 s:0.594210), (n:3 s:0.822834), (n:4 s:0.802493), 
+GMM best number of clusters (silhouette) 3 (0.8228347)
+best clusters (n = 3) results 
+GMM 3 cluster ARI: 0.6970117
+cluster 0:[./Outputs/a.out_0, ./Outputs/a.out_12, ./Outputs/a.out_13, ./Outputs/a.out_16, ./Outputs/a.out_17, ./Outputs/a.out_1, ./Outputs/a.out_20, ./Outputs/a.out_21, ./Outputs/a.out_24, ./Outputs/a.out_25, ./Outputs/a.out_28, ./Outputs/a.out_29, ./Outputs/a.out_32, ./Outputs/a.out_33, ./Outputs/a.out_36, ./Outputs/a.out_37, ./Outputs/a.out_40, ./Outputs/a.out_41, ./Outputs/a.out_44, ./Outputs/a.out_45, ./Outputs/a.out_48, ./Outputs/a.out_49, ./Outputs/a.out_4, ./Outputs/a.out_52, ./Outputs/a.out_53, ./Outputs/a.out_56, ./Outputs/a.out_57, ./Outputs/a.out_5, ./Outputs/a.out_60, ./Outputs/a.out_61, ./Outputs/a.out_64, ./Outputs/a.out_8, ./Outputs/a.out_9] 
+
+cluster 1:[./Outputs/a.out_11, ./Outputs/a.out_15, ./Outputs/a.out_19, ./Outputs/a.out_23, ./Outputs/a.out_27, ./Outputs/a.out_31, ./Outputs/a.out_35, ./Outputs/a.out_39, ./Outputs/a.out_3, ./Outputs/a.out_43, ./Outputs/a.out_47, ./Outputs/a.out_51, ./Outputs/a.out_55, ./Outputs/a.out_59, ./Outputs/a.out_63, ./Outputs/a.out_7] 
+
+cluster 2:[./Outputs/a.out_10, ./Outputs/a.out_14, ./Outputs/a.out_18, ./Outputs/a.out_22, ./Outputs/a.out_26, ./Outputs/a.out_2, ./Outputs/a.out_30, ./Outputs/a.out_34, ./Outputs/a.out_38, ./Outputs/a.out_42, ./Outputs/a.out_46, ./Outputs/a.out_50, ./Outputs/a.out_54, ./Outputs/a.out_58, ./Outputs/a.out_62, ./Outputs/a.out_6] 
+
+- shocking that it doesn't detect the groups even with else statements in execution
+- shows just how similar read and write is? 
+-
+
+- - - ARG = 1 (WRITE) - - - 
+0000557890a142be 837df401             cmp dword [rbp-0xc], 0x1
+0000557890a142c2 756f                 jnz 0x71
+0000557890a142c4 488d358b000000       lea rsi, [rip+0x8b]
+0000557890a142cb 488d3d86000000       lea rdi, [rip+0x86]
+0000557890a142d2 e8b9fdff00           call 0xfffdbe
+0000557890a14090 ff25b22f0000         jmp qword [rip+0x2fb2]
+0000557890a14096 6806000000           push 0x6
+0000557890a1409b e980ffff00           jmp 0xffff85
+0000557890a14020 ff35e22f0000         push qword [rip+0x2fe2]
+0000557890a14026 ff25e42f0000         jmp qword [rip+0x2fe4]
+0000557890a142d7 488945e0             mov [rbp-0x20], rax
+0000557890a142db 48837de000           cmp qword [rbp-0x20], 0x0
+0000557890a142e0 751b                 jnz 0x1d
+0000557890a142fd 8b45f0               mov eax, [rbp-0x10]
+0000557890a14300 8945dc               mov [rbp-0x24], eax
+0000557890a14303 8b55dc               mov edx, [rbp-0x24]
+0000557890a14306 488b45e0             mov rax, [rbp-0x20]
+0000557890a1430a 488d353e000000       lea rsi, [rip+0x3e]
+0000557890a14311 4889c7               mov rdi, rax
+0000557890a14314 b800000000           mov eax, 0x0
+0000557890a14319 e852fdff00           call 0xfffd57
+0000557890a14070 ff25c22f0000         jmp qword [rip+0x2fc2]
+0000557890a14076 6804000000           push 0x4
+0000557890a1407b e9a0ffff00           jmp 0xffffa5
+0000557890a14020 ff35e22f0000         push qword [rip+0x2fe2]
+0000557890a14026 ff25e42f0000         jmp qword [rip+0x2fe4]
+0000557890a1431e 488b45e0             mov rax, [rbp-0x20]
+0000557890a14322 4889c7               mov rdi, rax
+0000557890a14325 e826fdff00           call 0xfffd2b
+0000557890a14050 ff25d22f0000         jmp qword [rip+0x2fd2]
+0000557890a14056 6802000000           push 0x2
+0000557890a1405b e9c0ffff00           jmp 0xffffc5
+0000557890a14020 ff35e22f0000         push qword [rip+0x2fe2]
+0000557890a14026 ff25e42f0000         jmp qword [rip+0x2fe4]
+0000557890a1432a c745f800000000       mov dword [rbp-0x8], 0x0
+0000557890a14331 eb45                 jmp 0x47
+0000557890a14378 8b45f8               mov eax, [rbp-0x8]
+0000557890a1437b 89c6                 mov esi, eax
+0000557890a1437d 488d3dce000000       lea rdi, [rip+0xce]
+0000557890a14384 b800000000           mov eax, 0x0
+0000557890a14389 e8d2fcff00           call 0xfffcd7
+0000557890a14060 ff25ca2f0000         jmp qword [rip+0x2fca]
+0000557890a1438e 8b45f8               mov eax, [rbp-0x8]
+0000557890a14391 c9                   leave
+0000557890a14392 c3                   ret
+
+- - - ARG = 0 (READ) - - -
+000056410dd85253 48837de800           cmp qword [rbp-0x18], 0x0
+000056410dd85258 751b                 jnz 0x1d
+000056410dd85275 488d55d8             lea rdx, [rbp-0x28]
+000056410dd85279 488b45e8             mov rax, [rbp-0x18]
+000056410dd8527d 488d35cb000000       lea rsi, [rip+0xcb]
+000056410dd85284 4889c7               mov rdi, rax
+000056410dd85287 b800000000           mov eax, 0x0
+000056410dd8528c e89ffdff00           call 0xfffda4
+000056410dd85030 ff25e22f0000         jmp qword [rip+0x2fe2]
+000056410dd85036 6800000000           push 0x0
+000056410dd8503b e9e0ffff00           jmp 0xffffe5
+000056410dd85020 ff35e22f0000         push qword [rip+0x2fe2]
+000056410dd85026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056410dd85291 488b45e8             mov rax, [rbp-0x18]
+000056410dd85295 4889c7               mov rdi, rax
+000056410dd85298 e8b3fdff00           call 0xfffdb8
+000056410dd85050 ff25d22f0000         jmp qword [rip+0x2fd2]
+000056410dd85056 6802000000           push 0x2
+000056410dd8505b e9c0ffff00           jmp 0xffffc5
+000056410dd85020 ff35e22f0000         push qword [rip+0x2fe2]
+000056410dd85026 ff25e42f0000         jmp qword [rip+0x2fe4]
+000056410dd8529d 8b45d8               mov eax, [rbp-0x28]
+000056410dd852a0 8945f8               mov [rbp-0x8], eax
+000056410dd852a3 8b45d8               mov eax, [rbp-0x28]
+000056410dd852a6 89c6                 mov esi, eax
+000056410dd852a8 488d3da3000000       lea rdi, [rip+0xa3]
+000056410dd852af b800000000           mov eax, 0x0
+000056410dd852b4 e8a7fdff00           call 0xfffdac
+000056410dd85060 ff25ca2f0000         jmp qword [rip+0x2fca]
+000056410dd852b9 e9ba000000           jmp 0xbf
+000056410dd85378 8b45f8               mov eax, [rbp-0x8]
+000056410dd8537b 89c6                 mov esi, eax
+000056410dd8537d 488d3dce000000       lea rdi, [rip+0xce]
+000056410dd85384 b800000000           mov eax, 0x0
+000056410dd85389 e8d2fcff00           call 0xfffcd7
+000056410dd85060 ff25ca2f0000         jmp qword [rip+0x2fca]
+000056410dd8538e 8b45f8               mov eax, [rbp-0x8]
+000056410dd85391 c9                   leave
+000056410dd85392 c3                   ret
+
+. . . . . . . . .
+
+Conclusions:
+- as seen by experiments 1-3, it is hard to tell apart the execution paths 
+	when there are no else statements because of the lack of 
+	varying assembly code AND just less data for profiles to 
+	be developed
+- once i added lines of code (and complexity) to the branches, it was able 
+	to detect and cluster the groups properly WITHOUT the elses...
+	just because more code means more well rounded and developed profiles
+- this reinforces the idea of adding else statements to your code for efficiency (?)
+	and also reinforces the idea that the instrument we are developing
+	will benefit from more complex code with complex execution paths
+- i believe if we keep adding complexity, we will be able to prove the efficacy
+	of the system and profiling out executed code
+- SIKE i just did experiment 5 and now i have no fucking clue what to thik...
+	hopefully you're gonna tell me read and write are too similar of operations
+	to even consider this an epic fail but i have no clue lmao
+- what's next? no idea.

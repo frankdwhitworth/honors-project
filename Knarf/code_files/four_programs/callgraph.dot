@@ -1,0 +1,12 @@
+digraph callgraph {
+"main" -> "binaryIt" [style=solid];
+"main" -> "shiftIt" [style=solid];
+"main" -> "forkIt" [style=solid];
+"main" -> "readIt" [style=solid];
+"main" -> "modFour" [style=solid];
+"binaryIt" -> "binarySearch" [style=solid];
+"writeIt";
+"expIt";
+"dynamicIt";
+"log10It";
+}
