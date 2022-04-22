@@ -1,4 +1,3 @@
-* linguist-vendored
 *.sh linguist-detectable
 *.c linguist-detectable
 *.py linguist-detectable
