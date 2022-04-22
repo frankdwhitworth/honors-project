@@ -1,4 +1,4 @@
 * linguist-vendored
-*.sh linguist-vendored=false
-*.c linguist-vendored=false
-*.py linguist-vendored=false
+*.sh linguist-detectable
+*.c linguist-detectable
+*.py linguist-detectable
